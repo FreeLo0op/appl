@@ -1,0 +1,4666 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 216.8279375
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "graphemes"
+		xmin = 0.0
+		xmax = 216.8279375
+		intervals: size = 1163
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.73
+				text = ""
+			intervals [2]:
+				xmin = 0.73
+				xmax = 0.89
+				text = "同"
+			intervals [3]:
+				xmin = 0.89
+				xmax = 1.07
+				text = "学"
+			intervals [4]:
+				xmin = 1.07
+				xmax = 1.19
+				text = "你"
+			intervals [5]:
+				xmin = 1.19
+				xmax = 1.43
+				text = "好"
+			intervals [6]:
+				xmin = 1.43
+				xmax = 1.57
+				text = "很"
+			intervals [7]:
+				xmin = 1.57
+				xmax = 1.73
+				text = "高"
+			intervals [8]:
+				xmin = 1.73
+				xmax = 1.87
+				text = "兴"
+			intervals [9]:
+				xmin = 1.87
+				xmax = 1.97
+				text = "为"
+			intervals [10]:
+				xmin = 1.97
+				xmax = 2.17
+				text = "你"
+			intervals [11]:
+				xmin = 2.17
+				xmax = 2.33
+				text = "讲"
+			intervals [12]:
+				xmin = 2.33
+				xmax = 2.45
+				text = "解"
+			intervals [13]:
+				xmin = 2.45
+				xmax = 2.57
+				text = "这"
+			intervals [14]:
+				xmin = 2.57
+				xmax = 2.69
+				text = "道"
+			intervals [15]:
+				xmin = 2.69
+				xmax = 2.85
+				text = "题"
+			intervals [16]:
+				xmin = 2.85
+				xmax = 3.07
+				text = "目"
+			intervals [17]:
+				xmin = 3.07
+				xmax = 3.21
+				text = "我"
+			intervals [18]:
+				xmin = 3.21
+				xmax = 3.31
+				text = "们"
+			intervals [19]:
+				xmin = 3.31
+				xmax = 3.41
+				text = "一"
+			intervals [20]:
+				xmin = 3.41
+				xmax = 3.51
+				text = "起"
+			intervals [21]:
+				xmin = 3.51
+				xmax = 3.63
+				text = "来"
+			intervals [22]:
+				xmin = 3.63
+				xmax = 3.77
+				text = "看"
+			intervals [23]:
+				xmin = 3.77
+				xmax = 3.87
+				text = "一"
+			intervals [24]:
+				xmin = 3.87
+				xmax = 4.01
+				text = "下"
+			intervals [25]:
+				xmin = 4.01
+				xmax = 4.11
+				text = "这"
+			intervals [26]:
+				xmin = 4.11
+				xmax = 4.23
+				text = "道"
+			intervals [27]:
+				xmin = 4.23
+				xmax = 4.47
+				text = "题"
+			intervals [28]:
+				xmin = 4.47
+				xmax = 4.81
+				text = ""
+			intervals [29]:
+				xmin = 4.81
+				xmax = 5.01
+				text = "那"
+			intervals [30]:
+				xmin = 5.01
+				xmax = 5.19
+				text = "么"
+			intervals [31]:
+				xmin = 5.19
+				xmax = 5.31
+				text = "题"
+			intervals [32]:
+				xmin = 5.31
+				xmax = 5.49
+				text = "目"
+			intervals [33]:
+				xmin = 5.49
+				xmax = 5.59
+				text = "呢"
+			intervals [34]:
+				xmin = 5.59
+				xmax = 5.73
+				text = "说"
+			intervals [35]:
+				xmin = 5.73
+				xmax = 5.91
+				text = "了"
+			intervals [36]:
+				xmin = 5.91
+				xmax = 6.15
+				text = "啊"
+			intervals [37]:
+				xmin = 6.15
+				xmax = 6.41
+				text = ""
+			intervals [38]:
+				xmin = 6.41
+				xmax = 6.51
+				text = "这"
+			intervals [39]:
+				xmin = 6.51
+				xmax = 6.71
+				text = "边"
+			intervals [40]:
+				xmin = 6.71
+				xmax = 6.81
+				text = "的"
+			intervals [41]:
+				xmin = 6.81
+				xmax = 6.93
+				text = "话"
+			intervals [42]:
+				xmin = 6.93
+				xmax = 7.11
+				text = "呢"
+			intervals [43]:
+				xmin = 7.11
+				xmax = 7.35
+				text = "有"
+			intervals [44]:
+				xmin = 7.35
+				xmax = 7.45
+				text = ""
+			intervals [45]:
+				xmin = 7.45
+				xmax = 7.65
+				text = "一"
+			intervals [46]:
+				xmin = 7.65
+				xmax = 7.89
+				text = "副"
+			intervals [47]:
+				xmin = 7.89
+				xmax = 7.97
+				text = ""
+			intervals [48]:
+				xmin = 7.97
+				xmax = 8.13
+				text = "三"
+			intervals [49]:
+				xmin = 8.13
+				xmax = 8.37
+				text = "角"
+			intervals [50]:
+				xmin = 8.37
+				xmax = 8.61
+				text = "尺"
+			intervals [51]:
+				xmin = 8.61
+				xmax = 8.71
+				text = ""
+			intervals [52]:
+				xmin = 8.71
+				xmax = 8.91
+				text = "拼"
+			intervals [53]:
+				xmin = 8.91
+				xmax = 9.15
+				text = "成"
+			intervals [54]:
+				xmin = 9.15
+				xmax = 9.27
+				text = "的"
+			intervals [55]:
+				xmin = 9.27
+				xmax = 9.51
+				text = "图"
+			intervals [56]:
+				xmin = 9.51
+				xmax = 9.61
+				text = ""
+			intervals [57]:
+				xmin = 9.61
+				xmax = 9.79
+				text = "如"
+			intervals [58]:
+				xmin = 9.79
+				xmax = 10.01
+				text = "图"
+			intervals [59]:
+				xmin = 10.01
+				xmax = 10.17
+				text = "所"
+			intervals [60]:
+				xmin = 10.17
+				xmax = 10.41
+				text = "示"
+			intervals [61]:
+				xmin = 10.41
+				xmax = 10.81
+				text = ""
+			intervals [62]:
+				xmin = 10.81
+				xmax = 11.05
+				text = "过"
+			intervals [63]:
+				xmin = 11.05
+				xmax = 11.07
+				text = ""
+			intervals [64]:
+				xmin = 11.07
+				xmax = 11.31
+				text = "点"
+			intervals [65]:
+				xmin = 11.31
+				xmax = 11.55
+				text = "c"
+			intervals [66]:
+				xmin = 11.55
+				xmax = 11.65
+				text = ""
+			intervals [67]:
+				xmin = 11.65
+				xmax = 11.85
+				text = "做"
+			intervals [68]:
+				xmin = 11.85
+				xmax = 11.99
+				text = "了"
+			intervals [69]:
+				xmin = 11.99
+				xmax = 12.09
+				text = "一"
+			intervals [70]:
+				xmin = 12.09
+				xmax = 12.33
+				text = "个"
+			intervals [71]:
+				xmin = 12.33
+				xmax = 12.45
+				text = ""
+			intervals [72]:
+				xmin = 12.45
+				xmax = 12.93
+				text = "CF"
+			intervals [73]:
+				xmin = 12.93
+				xmax = 13.15
+				text = ""
+			intervals [74]:
+				xmin = 13.15
+				xmax = 13.39
+				text = "平"
+			intervals [75]:
+				xmin = 13.39
+				xmax = 13.41
+				text = ""
+			intervals [76]:
+				xmin = 13.41
+				xmax = 13.65
+				text = "分"
+			intervals [77]:
+				xmin = 13.65
+				xmax = 13.83
+				text = "的"
+			intervals [78]:
+				xmin = 13.83
+				xmax = 14.07
+				text = "角"
+			intervals [79]:
+				xmin = 14.07
+				xmax = 14.43
+				text = ""
+			intervals [80]:
+				xmin = 14.43
+				xmax = 15.69
+				text = "DCE"
+			intervals [81]:
+				xmin = 15.69
+				xmax = 15.71
+				text = ""
+			intervals [82]:
+				xmin = 15.71
+				xmax = 15.81
+				text = "这"
+			intervals [83]:
+				xmin = 15.81
+				xmax = 15.93
+				text = "十"
+			intervals [84]:
+				xmin = 15.93
+				xmax = 16.11
+				text = "度"
+			intervals [85]:
+				xmin = 16.11
+				xmax = 16.35
+				text = "哈"
+			intervals [86]:
+				xmin = 16.35
+				xmax = 16.55
+				text = ""
+			intervals [87]:
+				xmin = 16.55
+				xmax = 16.71
+				text = "那"
+			intervals [88]:
+				xmin = 16.71
+				xmax = 16.83
+				text = "么"
+			intervals [89]:
+				xmin = 16.83
+				xmax = 17.01
+				text = "角"
+			intervals [90]:
+				xmin = 17.01
+				xmax = 17.25
+				text = "d"
+			intervals [91]:
+				xmin = 17.25
+				xmax = 17.49
+				text = "于"
+			intervals [92]:
+				xmin = 17.49
+				xmax = 17.61
+				text = "角"
+			intervals [93]:
+				xmin = 17.61
+				xmax = 17.85
+				text = "f"
+			intervals [94]:
+				xmin = 17.85
+				xmax = 18.13
+				text = ""
+			intervals [95]:
+				xmin = 18.13
+				xmax = 18.33
+				text = "那"
+			intervals [96]:
+				xmin = 18.33
+				xmax = 18.41
+				text = "那"
+			intervals [97]:
+				xmin = 18.41
+				xmax = 18.53
+				text = "们"
+			intervals [98]:
+				xmin = 18.53
+				xmax = 18.69
+				text = "说"
+			intervals [99]:
+				xmin = 18.69
+				xmax = 18.83
+				text = "明"
+			intervals [100]:
+				xmin = 18.83
+				xmax = 18.93
+				text = "一"
+			intervals [101]:
+				xmin = 18.93
+				xmax = 19.17
+				text = "下"
+			intervals [102]:
+				xmin = 19.17
+				xmax = 19.19
+				text = ""
+			intervals [103]:
+				xmin = 19.19
+				xmax = 19.59
+				text = "CF"
+			intervals [104]:
+				xmin = 19.59
+				xmax = 19.67
+				text = ""
+			intervals [105]:
+				xmin = 19.67
+				xmax = 19.89
+				text = "和"
+			intervals [106]:
+				xmin = 19.89
+				xmax = 20.25
+				text = "AB"
+			intervals [107]:
+				xmin = 20.25
+				xmax = 20.35
+				text = "的"
+			intervals [108]:
+				xmin = 20.35
+				xmax = 20.47
+				text = "话"
+			intervals [109]:
+				xmin = 20.47
+				xmax = 20.59
+				text = "呢"
+			intervals [110]:
+				xmin = 20.59
+				xmax = 20.81
+				text = "是"
+			intervals [111]:
+				xmin = 20.81
+				xmax = 21.05
+				text = "平"
+			intervals [112]:
+				xmin = 21.05
+				xmax = 21.07
+				text = ""
+			intervals [113]:
+				xmin = 21.07
+				xmax = 21.31
+				text = "行"
+			intervals [114]:
+				xmin = 21.31
+				xmax = 21.49
+				text = "的"
+			intervals [115]:
+				xmin = 21.49
+				xmax = 21.73
+				text = "哈"
+			intervals [116]:
+				xmin = 21.73
+				xmax = 21.93
+				text = ""
+			intervals [117]:
+				xmin = 21.93
+				xmax = 22.09
+				text = "那"
+			intervals [118]:
+				xmin = 22.09
+				xmax = 22.33
+				text = "么"
+			intervals [119]:
+				xmin = 22.33
+				xmax = 22.45
+				text = ""
+			intervals [120]:
+				xmin = 22.45
+				xmax = 22.63
+				text = "首"
+			intervals [121]:
+				xmin = 22.63
+				xmax = 22.81
+				text = "先"
+			intervals [122]:
+				xmin = 22.81
+				xmax = 22.91
+				text = "的"
+			intervals [123]:
+				xmin = 22.91
+				xmax = 23.05
+				text = "话"
+			intervals [124]:
+				xmin = 23.05
+				xmax = 23.17
+				text = "呢"
+			intervals [125]:
+				xmin = 23.17
+				xmax = 23.27
+				text = "我"
+			intervals [126]:
+				xmin = 23.27
+				xmax = 23.35
+				text = "们"
+			intervals [127]:
+				xmin = 23.35
+				xmax = 23.49
+				text = "先"
+			intervals [128]:
+				xmin = 23.49
+				xmax = 23.71
+				text = "搞"
+			intervals [129]:
+				xmin = 23.71
+				xmax = 23.83
+				text = "清"
+			intervals [130]:
+				xmin = 23.83
+				xmax = 24.01
+				text = "楚"
+			intervals [131]:
+				xmin = 24.01
+				xmax = 24.25
+				text = "哈"
+			intervals [132]:
+				xmin = 24.25
+				xmax = 24.39
+				text = ""
+			intervals [133]:
+				xmin = 24.39
+				xmax = 24.55
+				text = "我"
+			intervals [134]:
+				xmin = 24.55
+				xmax = 24.67
+				text = "们"
+			intervals [135]:
+				xmin = 24.67
+				xmax = 24.89
+				text = "的"
+			intervals [136]:
+				xmin = 24.89
+				xmax = 25.13
+				text = "一"
+			intervals [137]:
+				xmin = 25.13
+				xmax = 25.21
+				text = ""
+			intervals [138]:
+				xmin = 25.21
+				xmax = 25.45
+				text = "副"
+			intervals [139]:
+				xmin = 25.45
+				xmax = 25.59
+				text = ""
+			intervals [140]:
+				xmin = 25.59
+				xmax = 25.75
+				text = "三"
+			intervals [141]:
+				xmin = 25.75
+				xmax = 25.99
+				text = "角"
+			intervals [142]:
+				xmin = 25.99
+				xmax = 26.05
+				text = ""
+			intervals [143]:
+				xmin = 26.05
+				xmax = 26.29
+				text = "形"
+			intervals [144]:
+				xmin = 26.29
+				xmax = 26.59
+				text = ""
+			intervals [145]:
+				xmin = 26.59
+				xmax = 26.83
+				text = "它"
+			intervals [146]:
+				xmin = 26.83
+				xmax = 27.07
+				text = "呢"
+			intervals [147]:
+				xmin = 27.07
+				xmax = 27.31
+				text = "是"
+			intervals [148]:
+				xmin = 27.31
+				xmax = 27.55
+				text = ""
+			intervals [149]:
+				xmin = 27.55
+				xmax = 27.79
+				text = "两"
+			intervals [150]:
+				xmin = 27.79
+				xmax = 27.85
+				text = ""
+			intervals [151]:
+				xmin = 27.85
+				xmax = 28.09
+				text = "个"
+			intervals [152]:
+				xmin = 28.09
+				xmax = 28.35
+				text = ""
+			intervals [153]:
+				xmin = 28.35
+				xmax = 28.57
+				text = "三"
+			intervals [154]:
+				xmin = 28.57
+				xmax = 28.75
+				text = "角"
+			intervals [155]:
+				xmin = 28.75
+				xmax = 28.99
+				text = "形"
+			intervals [156]:
+				xmin = 28.99
+				xmax = 29.05
+				text = ""
+			intervals [157]:
+				xmin = 29.05
+				xmax = 29.17
+				text = "对"
+			intervals [158]:
+				xmin = 29.17
+				xmax = 29.41
+				text = "吧"
+			intervals [159]:
+				xmin = 29.41
+				xmax = 29.59
+				text = "两"
+			intervals [160]:
+				xmin = 29.59
+				xmax = 29.79
+				text = "种"
+			intervals [161]:
+				xmin = 29.79
+				xmax = 29.89
+				text = "三"
+			intervals [162]:
+				xmin = 29.89
+				xmax = 30.01
+				text = "角"
+			intervals [163]:
+				xmin = 30.01
+				xmax = 30.19
+				text = "形"
+			intervals [164]:
+				xmin = 30.19
+				xmax = 30.43
+				text = "哈"
+			intervals [165]:
+				xmin = 30.43
+				xmax = 30.51
+				text = ""
+			intervals [166]:
+				xmin = 30.51
+				xmax = 30.67
+				text = "那"
+			intervals [167]:
+				xmin = 30.67
+				xmax = 30.79
+				text = "么"
+			intervals [168]:
+				xmin = 30.79
+				xmax = 30.87
+				text = "第"
+			intervals [169]:
+				xmin = 30.87
+				xmax = 30.97
+				text = "一"
+			intervals [170]:
+				xmin = 30.97
+				xmax = 31.11
+				text = "种"
+			intervals [171]:
+				xmin = 31.11
+				xmax = 31.21
+				text = "三"
+			intervals [172]:
+				xmin = 31.21
+				xmax = 31.39
+				text = "角"
+			intervals [173]:
+				xmin = 31.39
+				xmax = 31.57
+				text = "形"
+			intervals [174]:
+				xmin = 31.57
+				xmax = 31.65
+				text = "的"
+			intervals [175]:
+				xmin = 31.65
+				xmax = 31.81
+				text = "话"
+			intervals [176]:
+				xmin = 31.81
+				xmax = 32.049
+				text = "呢"
+			intervals [177]:
+				xmin = 32.049
+				xmax = 32.25
+				text = ""
+			intervals [178]:
+				xmin = 32.25
+				xmax = 32.47
+				text = "就"
+			intervals [179]:
+				xmin = 32.47
+				xmax = 32.71
+				text = "是"
+			intervals [180]:
+				xmin = 32.71
+				xmax = 32.83
+				text = "我"
+			intervals [181]:
+				xmin = 32.83
+				xmax = 32.95
+				text = "们"
+			intervals [182]:
+				xmin = 32.95
+				xmax = 33.09
+				text = "的"
+			intervals [183]:
+				xmin = 33.09
+				xmax = 33.25
+				text = "三"
+			intervals [184]:
+				xmin = 33.25
+				xmax = 33.43
+				text = "角"
+			intervals [185]:
+				xmin = 33.43
+				xmax = 33.67
+				text = "形"
+			intervals [186]:
+				xmin = 33.67
+				xmax = 33.81
+				text = ""
+			intervals [187]:
+				xmin = 33.81
+				xmax = 35.11
+				text = "BCD"
+			intervals [188]:
+				xmin = 35.11
+				xmax = 35.45
+				text = ""
+			intervals [189]:
+				xmin = 35.45
+				xmax = 35.65
+				text = "那"
+			intervals [190]:
+				xmin = 35.65
+				xmax = 35.89
+				text = "那"
+			intervals [191]:
+				xmin = 35.89
+				xmax = 36.19
+				text = ""
+			intervals [192]:
+				xmin = 36.19
+				xmax = 36.43
+				text = "呃"
+			intervals [193]:
+				xmin = 36.43
+				xmax = 36.57
+				text = ""
+			intervals [194]:
+				xmin = 36.57
+				xmax = 36.81
+				text = "是"
+			intervals [195]:
+				xmin = 36.81
+				xmax = 36.89
+				text = ""
+			intervals [196]:
+				xmin = 36.89
+				xmax = 37.09
+				text = "一"
+			intervals [197]:
+				xmin = 37.09
+				xmax = 37.33
+				text = "个"
+			intervals [198]:
+				xmin = 37.33
+				xmax = 37.37
+				text = ""
+			intervals [199]:
+				xmin = 37.37
+				xmax = 37.61
+				text = "九"
+			intervals [200]:
+				xmin = 37.61
+				xmax = 37.63
+				text = ""
+			intervals [201]:
+				xmin = 37.63
+				xmax = 37.87
+				text = "十"
+			intervals [202]:
+				xmin = 37.87
+				xmax = 38.11
+				text = "度"
+			intervals [203]:
+				xmin = 38.11
+				xmax = 38.17
+				text = ""
+			intervals [204]:
+				xmin = 38.17
+				xmax = 38.41
+				text = "的"
+			intervals [205]:
+				xmin = 38.41
+				xmax = 39.13
+				text = ""
+			intervals [206]:
+				xmin = 39.13
+				xmax = 39.37
+				text = "直"
+			intervals [207]:
+				xmin = 39.37
+				xmax = 39.51
+				text = "角"
+			intervals [208]:
+				xmin = 39.51
+				xmax = 39.61
+				text = "三"
+			intervals [209]:
+				xmin = 39.61
+				xmax = 39.79
+				text = "角"
+			intervals [210]:
+				xmin = 39.79
+				xmax = 40.03
+				text = "形"
+			intervals [211]:
+				xmin = 40.03
+				xmax = 40.07
+				text = ""
+			intervals [212]:
+				xmin = 40.07
+				xmax = 40.27
+				text = "并"
+			intervals [213]:
+				xmin = 40.27
+				xmax = 40.41
+				text = "且"
+			intervals [214]:
+				xmin = 40.41
+				xmax = 40.51
+				text = "的"
+			intervals [215]:
+				xmin = 40.51
+				xmax = 40.63
+				text = "话"
+			intervals [216]:
+				xmin = 40.63
+				xmax = 40.75
+				text = "呢"
+			intervals [217]:
+				xmin = 40.75
+				xmax = 40.89
+				text = "它"
+			intervals [218]:
+				xmin = 40.89
+				xmax = 41.05
+				text = "两"
+			intervals [219]:
+				xmin = 41.05
+				xmax = 41.19
+				text = "个"
+			intervals [220]:
+				xmin = 41.19
+				xmax = 41.41
+				text = "底"
+			intervals [221]:
+				xmin = 41.41
+				xmax = 41.59
+				text = "角"
+			intervals [222]:
+				xmin = 41.59
+				xmax = 41.71
+				text = "的"
+			intervals [223]:
+				xmin = 41.71
+				xmax = 41.83
+				text = "话"
+			intervals [224]:
+				xmin = 41.83
+				xmax = 41.95
+				text = "呢"
+			intervals [225]:
+				xmin = 41.95
+				xmax = 42.13
+				text = "就"
+			intervals [226]:
+				xmin = 42.13
+				xmax = 42.33
+				text = "是"
+			intervals [227]:
+				xmin = 42.33
+				xmax = 42.49
+				text = "四"
+			intervals [228]:
+				xmin = 42.49
+				xmax = 42.61
+				text = "十"
+			intervals [229]:
+				xmin = 42.61
+				xmax = 42.71
+				text = "五"
+			intervals [230]:
+				xmin = 42.71
+				xmax = 42.89
+				text = "度"
+			intervals [231]:
+				xmin = 42.89
+				xmax = 43.13
+				text = "哈"
+			intervals [232]:
+				xmin = 43.13
+				xmax = 44.91
+				text = ""
+			intervals [233]:
+				xmin = 44.91
+				xmax = 45.15
+				text = "好"
+			intervals [234]:
+				xmin = 45.15
+				xmax = 45.19
+				text = ""
+			intervals [235]:
+				xmin = 45.19
+				xmax = 45.29
+				text = "所"
+			intervals [236]:
+				xmin = 45.29
+				xmax = 45.39
+				text = "以"
+			intervals [237]:
+				xmin = 45.39
+				xmax = 45.47
+				text = "它"
+			intervals [238]:
+				xmin = 45.47
+				xmax = 45.71
+				text = "是"
+			intervals [239]:
+				xmin = 45.71
+				xmax = 45.85
+				text = ""
+			intervals [240]:
+				xmin = 45.85
+				xmax = 46.07
+				text = "它"
+			intervals [241]:
+				xmin = 46.07
+				xmax = 46.19
+				text = "呢"
+			intervals [242]:
+				xmin = 46.19
+				xmax = 46.29
+				text = "是"
+			intervals [243]:
+				xmin = 46.29
+				xmax = 46.37
+				text = "一"
+			intervals [244]:
+				xmin = 46.37
+				xmax = 46.47
+				text = "个"
+			intervals [245]:
+				xmin = 46.47
+				xmax = 46.61
+				text = "等"
+			intervals [246]:
+				xmin = 46.61
+				xmax = 46.79
+				text = "腰"
+			intervals [247]:
+				xmin = 46.79
+				xmax = 46.91
+				text = "直"
+			intervals [248]:
+				xmin = 46.91
+				xmax = 47.05
+				text = "角"
+			intervals [249]:
+				xmin = 47.05
+				xmax = 47.15
+				text = "三"
+			intervals [250]:
+				xmin = 47.15
+				xmax = 47.27
+				text = "角"
+			intervals [251]:
+				xmin = 47.27
+				xmax = 47.39
+				text = "形"
+			intervals [252]:
+				xmin = 47.39
+				xmax = 47.63
+				text = "哈"
+			intervals [253]:
+				xmin = 47.63
+				xmax = 47.79
+				text = ""
+			intervals [254]:
+				xmin = 47.79
+				xmax = 47.93
+				text = "那"
+			intervals [255]:
+				xmin = 47.93
+				xmax = 48.07
+				text = "么"
+			intervals [256]:
+				xmin = 48.07
+				xmax = 48.23
+				text = "另"
+			intervals [257]:
+				xmin = 48.23
+				xmax = 48.35
+				text = "一"
+			intervals [258]:
+				xmin = 48.35
+				xmax = 48.55
+				text = "副"
+			intervals [259]:
+				xmin = 48.55
+				xmax = 48.65
+				text = "的"
+			intervals [260]:
+				xmin = 48.65
+				xmax = 48.77
+				text = "话"
+			intervals [261]:
+				xmin = 48.77
+				xmax = 48.95
+				text = "呢"
+			intervals [262]:
+				xmin = 48.95
+				xmax = 49.13
+				text = "就"
+			intervals [263]:
+				xmin = 49.13
+				xmax = 49.37
+				text = "是"
+			intervals [264]:
+				xmin = 49.37
+				xmax = 49.73
+				text = ""
+			intervals [265]:
+				xmin = 49.73
+				xmax = 49.85
+				text = "三"
+			intervals [266]:
+				xmin = 49.85
+				xmax = 50.03
+				text = "角"
+			intervals [267]:
+				xmin = 50.03
+				xmax = 50.27
+				text = "形"
+			intervals [268]:
+				xmin = 50.27
+				xmax = 50.55
+				text = ""
+			intervals [269]:
+				xmin = 50.55
+				xmax = 50.71
+				text = "另"
+			intervals [270]:
+				xmin = 50.71
+				xmax = 50.81
+				text = "一"
+			intervals [271]:
+				xmin = 50.81
+				xmax = 51.05
+				text = "个"
+			intervals [272]:
+				xmin = 51.05
+				xmax = 51.29
+				text = "哈"
+			intervals [273]:
+				xmin = 51.29
+				xmax = 51.41
+				text = ""
+			intervals [274]:
+				xmin = 51.41
+				xmax = 51.65
+				text = "另"
+			intervals [275]:
+				xmin = 51.65
+				xmax = 51.77
+				text = "一"
+			intervals [276]:
+				xmin = 51.77
+				xmax = 51.95
+				text = "个"
+			intervals [277]:
+				xmin = 51.95
+				xmax = 52.07
+				text = "就"
+			intervals [278]:
+				xmin = 52.07
+				xmax = 52.17
+				text = "是"
+			intervals [279]:
+				xmin = 52.17
+				xmax = 52.27
+				text = "三"
+			intervals [280]:
+				xmin = 52.27
+				xmax = 52.43
+				text = "角"
+			intervals [281]:
+				xmin = 52.43
+				xmax = 52.67
+				text = "形"
+			intervals [282]:
+				xmin = 52.67
+				xmax = 52.69
+				text = ""
+			intervals [283]:
+				xmin = 52.69
+				xmax = 53.81
+				text = "ECD"
+			intervals [284]:
+				xmin = 53.81
+				xmax = 54.05
+				text = "哈"
+			intervals [285]:
+				xmin = 54.05
+				xmax = 54.23
+				text = ""
+			intervals [286]:
+				xmin = 54.23
+				xmax = 54.41
+				text = "那"
+			intervals [287]:
+				xmin = 54.41
+				xmax = 54.53
+				text = "么"
+			intervals [288]:
+				xmin = 54.53
+				xmax = 54.71
+				text = "角"
+			intervals [289]:
+				xmin = 54.71
+				xmax = 55.15
+				text = "ECD"
+			intervals [290]:
+				xmin = 55.15
+				xmax = 55.25
+				text = "的"
+			intervals [291]:
+				xmin = 55.25
+				xmax = 55.37
+				text = "话"
+			intervals [292]:
+				xmin = 55.37
+				xmax = 55.49
+				text = "呢"
+			intervals [293]:
+				xmin = 55.49
+				xmax = 55.73
+				text = "是"
+			intervals [294]:
+				xmin = 55.73
+				xmax = 55.75
+				text = ""
+			intervals [295]:
+				xmin = 55.75
+				xmax = 55.91
+				text = "九"
+			intervals [296]:
+				xmin = 55.91
+				xmax = 56.09
+				text = "十"
+			intervals [297]:
+				xmin = 56.09
+				xmax = 56.33
+				text = "度"
+			intervals [298]:
+				xmin = 56.33
+				xmax = 56.51
+				text = ""
+			intervals [299]:
+				xmin = 56.51
+				xmax = 56.69
+				text = "而"
+			intervals [300]:
+				xmin = 56.69
+				xmax = 56.87
+				text = "角"
+			intervals [301]:
+				xmin = 56.87
+				xmax = 57.11
+				text = "e"
+			intervals [302]:
+				xmin = 57.11
+				xmax = 57.19
+				text = "的"
+			intervals [303]:
+				xmin = 57.19
+				xmax = 57.35
+				text = "话"
+			intervals [304]:
+				xmin = 57.35
+				xmax = 57.53
+				text = "呢"
+			intervals [305]:
+				xmin = 57.53
+				xmax = 57.71
+				text = "它"
+			intervals [306]:
+				xmin = 57.71
+				xmax = 57.95
+				text = "是"
+			intervals [307]:
+				xmin = 57.95
+				xmax = 57.97
+				text = ""
+			intervals [308]:
+				xmin = 57.97
+				xmax = 58.07
+				text = "一"
+			intervals [309]:
+				xmin = 58.07
+				xmax = 58.31
+				text = "个"
+			intervals [310]:
+				xmin = 58.31
+				xmax = 58.41
+				text = ""
+			intervals [311]:
+				xmin = 58.41
+				xmax = 58.55
+				text = "三"
+			intervals [312]:
+				xmin = 58.55
+				xmax = 58.79
+				text = "十"
+			intervals [313]:
+				xmin = 58.79
+				xmax = 58.97
+				text = "度"
+			intervals [314]:
+				xmin = 58.97
+				xmax = 59.21
+				text = "哈"
+			intervals [315]:
+				xmin = 59.21
+				xmax = 59.33
+				text = ""
+			intervals [316]:
+				xmin = 59.33
+				xmax = 59.51
+				text = "角"
+			intervals [317]:
+				xmin = 59.51
+				xmax = 59.63
+				text = "的"
+			intervals [318]:
+				xmin = 59.63
+				xmax = 59.75
+				text = "这"
+			intervals [319]:
+				xmin = 59.75
+				xmax = 59.87
+				text = "个"
+			intervals [320]:
+				xmin = 59.87
+				xmax = 60.05
+				text = "角"
+			intervals [321]:
+				xmin = 60.05
+				xmax = 60.23
+				text = "呢"
+			intervals [322]:
+				xmin = 60.23
+				xmax = 60.43
+				text = "是"
+			intervals [323]:
+				xmin = 60.43
+				xmax = 60.53
+				text = "三"
+			intervals [324]:
+				xmin = 60.53
+				xmax = 60.71
+				text = "十"
+			intervals [325]:
+				xmin = 60.71
+				xmax = 60.95
+				text = "度"
+			intervals [326]:
+				xmin = 60.95
+				xmax = 61.19
+				text = ""
+			intervals [327]:
+				xmin = 61.19
+				xmax = 61.43
+				text = "那"
+			intervals [328]:
+				xmin = 61.43
+				xmax = 61.61
+				text = "那"
+			intervals [329]:
+				xmin = 61.61
+				xmax = 61.81
+				text = "d"
+			intervals [330]:
+				xmin = 61.81
+				xmax = 61.91
+				text = "这"
+			intervals [331]:
+				xmin = 61.91
+				xmax = 62.03
+				text = "个"
+			intervals [332]:
+				xmin = 62.03
+				xmax = 62.17
+				text = "角"
+			intervals [333]:
+				xmin = 62.17
+				xmax = 62.27
+				text = "的"
+			intervals [334]:
+				xmin = 62.27
+				xmax = 62.39
+				text = "话"
+			intervals [335]:
+				xmin = 62.39
+				xmax = 62.59
+				text = "呢"
+			intervals [336]:
+				xmin = 62.59
+				xmax = 62.75
+				text = "就"
+			intervals [337]:
+				xmin = 62.75
+				xmax = 62.99
+				text = "是"
+			intervals [338]:
+				xmin = 62.99
+				xmax = 63.01
+				text = ""
+			intervals [339]:
+				xmin = 63.01
+				xmax = 63.17
+				text = "六"
+			intervals [340]:
+				xmin = 63.17
+				xmax = 63.35
+				text = "十"
+			intervals [341]:
+				xmin = 63.35
+				xmax = 63.47
+				text = "度"
+			intervals [342]:
+				xmin = 63.47
+				xmax = 63.71
+				text = "哈"
+			intervals [343]:
+				xmin = 63.71
+				xmax = 63.93
+				text = ""
+			intervals [344]:
+				xmin = 63.93
+				xmax = 64.129
+				text = "那"
+			intervals [345]:
+				xmin = 64.129
+				xmax = 64.25
+				text = "么"
+			intervals [346]:
+				xmin = 64.25
+				xmax = 64.33
+				text = "这"
+			intervals [347]:
+				xmin = 64.33
+				xmax = 64.41
+				text = "个"
+			intervals [348]:
+				xmin = 64.41
+				xmax = 64.53
+				text = "时"
+			intervals [349]:
+				xmin = 64.53
+				xmax = 64.629
+				text = "候"
+			intervals [350]:
+				xmin = 64.629
+				xmax = 64.71
+				text = "的"
+			intervals [351]:
+				xmin = 64.71
+				xmax = 64.83
+				text = "话"
+			intervals [352]:
+				xmin = 64.83
+				xmax = 64.95
+				text = "它"
+			intervals [353]:
+				xmin = 64.95
+				xmax = 65.07
+				text = "让"
+			intervals [354]:
+				xmin = 65.07
+				xmax = 65.17
+				text = "我"
+			intervals [355]:
+				xmin = 65.17
+				xmax = 65.269
+				text = "们"
+			intervals [356]:
+				xmin = 65.269
+				xmax = 65.43
+				text = "说"
+			intervals [357]:
+				xmin = 65.43
+				xmax = 65.65
+				text = "明"
+			intervals [358]:
+				xmin = 65.65
+				xmax = 66.03
+				text = "CF"
+			intervals [359]:
+				xmin = 66.03
+				xmax = 66.09
+				text = ""
+			intervals [360]:
+				xmin = 66.09
+				xmax = 66.29
+				text = "是"
+			intervals [361]:
+				xmin = 66.29
+				xmax = 66.51
+				text = "平"
+			intervals [362]:
+				xmin = 66.51
+				xmax = 66.69
+				text = "行"
+			intervals [363]:
+				xmin = 66.69
+				xmax = 66.83
+				text = "于"
+			intervals [364]:
+				xmin = 66.83
+				xmax = 67.11
+				text = "AB"
+			intervals [365]:
+				xmin = 67.11
+				xmax = 67.35
+				text = "哈"
+			intervals [366]:
+				xmin = 67.35
+				xmax = 67.47
+				text = ""
+			intervals [367]:
+				xmin = 67.47
+				xmax = 67.67
+				text = "那"
+			intervals [368]:
+				xmin = 67.67
+				xmax = 67.77
+				text = "我"
+			intervals [369]:
+				xmin = 67.77
+				xmax = 67.95
+				text = "们"
+			intervals [370]:
+				xmin = 67.95
+				xmax = 68.07
+				text = "是"
+			intervals [371]:
+				xmin = 68.07
+				xmax = 68.19
+				text = "不"
+			intervals [372]:
+				xmin = 68.19
+				xmax = 68.43
+				text = "是"
+			intervals [373]:
+				xmin = 68.43
+				xmax = 68.65
+				text = ""
+			intervals [374]:
+				xmin = 68.65
+				xmax = 68.85
+				text = "可"
+			intervals [375]:
+				xmin = 68.85
+				xmax = 69.03
+				text = "以"
+			intervals [376]:
+				xmin = 69.03
+				xmax = 69.27
+				text = "去"
+			intervals [377]:
+				xmin = 69.27
+				xmax = 69.63
+				text = ""
+			intervals [378]:
+				xmin = 69.63
+				xmax = 69.87
+				text = "找"
+			intervals [379]:
+				xmin = 69.87
+				xmax = 69.89
+				text = ""
+			intervals [380]:
+				xmin = 69.89
+				xmax = 69.99
+				text = "一"
+			intervals [381]:
+				xmin = 69.99
+				xmax = 70.23
+				text = "下"
+			intervals [382]:
+				xmin = 70.23
+				xmax = 70.43
+				text = ""
+			intervals [383]:
+				xmin = 70.43
+				xmax = 70.67
+				text = "有"
+			intervals [384]:
+				xmin = 70.67
+				xmax = 70.77
+				text = "三"
+			intervals [385]:
+				xmin = 70.77
+				xmax = 70.89
+				text = "十"
+			intervals [386]:
+				xmin = 70.89
+				xmax = 71.01
+				text = "度"
+			intervals [387]:
+				xmin = 71.01
+				xmax = 71.25
+				text = "哈"
+			intervals [388]:
+				xmin = 71.25
+				xmax = 71.67
+				text = ""
+			intervals [389]:
+				xmin = 71.67
+				xmax = 71.91
+				text = "那"
+			intervals [390]:
+				xmin = 71.91
+				xmax = 72.11
+				text = ""
+			intervals [391]:
+				xmin = 72.11
+				xmax = 72.27
+				text = "那"
+			intervals [392]:
+				xmin = 72.27
+				xmax = 72.51
+				text = "是"
+			intervals [393]:
+				xmin = 72.51
+				xmax = 72.53
+				text = ""
+			intervals [394]:
+				xmin = 72.53
+				xmax = 72.63
+				text = "一"
+			intervals [395]:
+				xmin = 72.63
+				xmax = 72.75
+				text = "个"
+			intervals [396]:
+				xmin = 72.75
+				xmax = 72.93
+				text = "角"
+			intervals [397]:
+				xmin = 72.93
+				xmax = 73.05
+				text = "角"
+			intervals [398]:
+				xmin = 73.05
+				xmax = 73.17
+				text = "角"
+			intervals [399]:
+				xmin = 73.17
+				xmax = 73.41
+				text = "角"
+			intervals [400]:
+				xmin = 73.41
+				xmax = 73.65
+				text = "平"
+			intervals [401]:
+				xmin = 73.65
+				xmax = 74.13
+				text = "CD"
+			intervals [402]:
+				xmin = 74.13
+				xmax = 74.49
+				text = ""
+			intervals [403]:
+				xmin = 74.49
+				xmax = 74.73
+				text = "那"
+			intervals [404]:
+				xmin = 74.73
+				xmax = 74.79
+				text = ""
+			intervals [405]:
+				xmin = 74.79
+				xmax = 74.95
+				text = "那"
+			intervals [406]:
+				xmin = 74.95
+				xmax = 75.09
+				text = "同"
+			intervals [407]:
+				xmin = 75.09
+				xmax = 75.27
+				text = "位"
+			intervals [408]:
+				xmin = 75.27
+				xmax = 75.45
+				text = "角"
+			intervals [409]:
+				xmin = 75.45
+				xmax = 75.57
+				text = "的"
+			intervals [410]:
+				xmin = 75.57
+				xmax = 75.69
+				text = "话"
+			intervals [411]:
+				xmin = 75.69
+				xmax = 75.93
+				text = "呢"
+			intervals [412]:
+				xmin = 75.93
+				xmax = 76.07
+				text = ""
+			intervals [413]:
+				xmin = 76.07
+				xmax = 76.23
+				text = "我"
+			intervals [414]:
+				xmin = 76.23
+				xmax = 76.33
+				text = "们"
+			intervals [415]:
+				xmin = 76.33
+				xmax = 76.53
+				text = "让"
+			intervals [416]:
+				xmin = 76.53
+				xmax = 76.77
+				text = "它"
+			intervals [417]:
+				xmin = 76.77
+				xmax = 76.97
+				text = ""
+			intervals [418]:
+				xmin = 76.97
+				xmax = 77.13
+				text = "证"
+			intervals [419]:
+				xmin = 77.13
+				xmax = 77.31
+				text = "明"
+			intervals [420]:
+				xmin = 77.31
+				xmax = 77.51
+				text = "它"
+			intervals [421]:
+				xmin = 77.51
+				xmax = 77.67
+				text = "相"
+			intervals [422]:
+				xmin = 77.67
+				xmax = 77.91
+				text = "等"
+			intervals [423]:
+				xmin = 77.91
+				xmax = 78.21
+				text = ""
+			intervals [424]:
+				xmin = 78.21
+				xmax = 78.39
+				text = "哈"
+			intervals [425]:
+				xmin = 78.39
+				xmax = 78.47
+				text = "那"
+			intervals [426]:
+				xmin = 78.47
+				xmax = 78.57
+				text = "么"
+			intervals [427]:
+				xmin = 78.57
+				xmax = 78.69
+				text = "是"
+			intervals [428]:
+				xmin = 78.69
+				xmax = 78.77
+				text = "我"
+			intervals [429]:
+				xmin = 78.77
+				xmax = 78.85
+				text = "们"
+			intervals [430]:
+				xmin = 78.85
+				xmax = 78.93
+				text = "就"
+			intervals [431]:
+				xmin = 78.93
+				xmax = 79.03
+				text = "可"
+			intervals [432]:
+				xmin = 79.03
+				xmax = 79.11
+				text = "以"
+			intervals [433]:
+				xmin = 79.11
+				xmax = 79.23
+				text = "判"
+			intervals [434]:
+				xmin = 79.23
+				xmax = 79.41
+				text = "定"
+			intervals [435]:
+				xmin = 79.41
+				xmax = 79.53
+				text = "两"
+			intervals [436]:
+				xmin = 79.53
+				xmax = 79.65
+				text = "直"
+			intervals [437]:
+				xmin = 79.65
+				xmax = 79.79
+				text = "线"
+			intervals [438]:
+				xmin = 79.79
+				xmax = 80.01
+				text = "平"
+			intervals [439]:
+				xmin = 80.01
+				xmax = 80.13
+				text = "行"
+			intervals [440]:
+				xmin = 80.13
+				xmax = 80.37
+				text = "了"
+			intervals [441]:
+				xmin = 80.37
+				xmax = 80.49
+				text = "对"
+			intervals [442]:
+				xmin = 80.49
+				xmax = 80.73
+				text = "吧"
+			intervals [443]:
+				xmin = 80.73
+				xmax = 81.01
+				text = ""
+			intervals [444]:
+				xmin = 81.01
+				xmax = 81.21
+				text = "以"
+			intervals [445]:
+				xmin = 81.21
+				xmax = 81.35
+				text = "及"
+			intervals [446]:
+				xmin = 81.35
+				xmax = 81.45
+				text = "我"
+			intervals [447]:
+				xmin = 81.45
+				xmax = 81.57
+				text = "们"
+			intervals [448]:
+				xmin = 81.57
+				xmax = 81.81
+				text = "的"
+			intervals [449]:
+				xmin = 81.81
+				xmax = 82.05
+				text = "内"
+			intervals [450]:
+				xmin = 82.05
+				xmax = 82.29
+				text = "错"
+			intervals [451]:
+				xmin = 82.29
+				xmax = 82.53
+				text = "角"
+			intervals [452]:
+				xmin = 82.53
+				xmax = 82.55
+				text = ""
+			intervals [453]:
+				xmin = 82.55
+				xmax = 82.71
+				text = "相"
+			intervals [454]:
+				xmin = 82.71
+				xmax = 82.95
+				text = "等"
+			intervals [455]:
+				xmin = 82.95
+				xmax = 84.47
+				text = ""
+			intervals [456]:
+				xmin = 84.47
+				xmax = 84.63
+				text = "那"
+			intervals [457]:
+				xmin = 84.63
+				xmax = 84.75
+				text = "我"
+			intervals [458]:
+				xmin = 84.75
+				xmax = 84.93
+				text = "们"
+			intervals [459]:
+				xmin = 84.93
+				xmax = 85.13
+				text = "也"
+			intervals [460]:
+				xmin = 85.13
+				xmax = 85.29
+				text = "可"
+			intervals [461]:
+				xmin = 85.29
+				xmax = 85.43
+				text = "以"
+			intervals [462]:
+				xmin = 85.43
+				xmax = 85.59
+				text = "判"
+			intervals [463]:
+				xmin = 85.59
+				xmax = 85.83
+				text = "定"
+			intervals [464]:
+				xmin = 85.83
+				xmax = 86.07
+				text = "平"
+			intervals [465]:
+				xmin = 86.07
+				xmax = 86.31
+				text = "行"
+			intervals [466]:
+				xmin = 86.31
+				xmax = 86.37
+				text = ""
+			intervals [467]:
+				xmin = 86.37
+				xmax = 86.49
+				text = "对"
+			intervals [468]:
+				xmin = 86.49
+				xmax = 86.73
+				text = "吧"
+			intervals [469]:
+				xmin = 86.73
+				xmax = 86.91
+				text = ""
+			intervals [470]:
+				xmin = 86.91
+				xmax = 87.09
+				text = "以"
+			intervals [471]:
+				xmin = 87.09
+				xmax = 87.21
+				text = "及"
+			intervals [472]:
+				xmin = 87.21
+				xmax = 87.29
+				text = "我"
+			intervals [473]:
+				xmin = 87.29
+				xmax = 87.41
+				text = "们"
+			intervals [474]:
+				xmin = 87.41
+				xmax = 87.49
+				text = "的"
+			intervals [475]:
+				xmin = 87.49
+				xmax = 87.63
+				text = "同"
+			intervals [476]:
+				xmin = 87.63
+				xmax = 87.81
+				text = "旁"
+			intervals [477]:
+				xmin = 87.81
+				xmax = 87.93
+				text = "内"
+			intervals [478]:
+				xmin = 87.93
+				xmax = 88.11
+				text = "角"
+			intervals [479]:
+				xmin = 88.11
+				xmax = 88.19
+				text = "互"
+			intervals [480]:
+				xmin = 88.19
+				xmax = 88.31
+				text = "补"
+			intervals [481]:
+				xmin = 88.31
+				xmax = 88.55
+				text = "哈"
+			intervals [482]:
+				xmin = 88.55
+				xmax = 88.79
+				text = "那"
+			intervals [483]:
+				xmin = 88.79
+				xmax = 89.01
+				text = ""
+			intervals [484]:
+				xmin = 89.01
+				xmax = 89.21
+				text = "我"
+			intervals [485]:
+				xmin = 89.21
+				xmax = 89.33
+				text = "们"
+			intervals [486]:
+				xmin = 89.33
+				xmax = 89.45
+				text = "在"
+			intervals [487]:
+				xmin = 89.45
+				xmax = 89.57
+				text = "这"
+			intervals [488]:
+				xmin = 89.57
+				xmax = 89.69
+				text = "儿"
+			intervals [489]:
+				xmin = 89.69
+				xmax = 89.77
+				text = "的"
+			intervals [490]:
+				xmin = 89.77
+				xmax = 89.87
+				text = "话"
+			intervals [491]:
+				xmin = 89.87
+				xmax = 89.99
+				text = "呢"
+			intervals [492]:
+				xmin = 89.99
+				xmax = 90.19
+				text = "就"
+			intervals [493]:
+				xmin = 90.19
+				xmax = 90.29
+				text = "用"
+			intervals [494]:
+				xmin = 90.29
+				xmax = 90.53
+				text = "同"
+			intervals [495]:
+				xmin = 90.53
+				xmax = 90.63
+				text = ""
+			intervals [496]:
+				xmin = 90.63
+				xmax = 90.77
+				text = "位"
+			intervals [497]:
+				xmin = 90.77
+				xmax = 90.95
+				text = "角"
+			intervals [498]:
+				xmin = 90.95
+				xmax = 91.07
+				text = "和"
+			intervals [499]:
+				xmin = 91.07
+				xmax = 91.19
+				text = "a"
+			intervals [500]:
+				xmin = 91.19
+				xmax = 91.37
+				text = "错"
+			intervals [501]:
+				xmin = 91.37
+				xmax = 91.49
+				text = "角"
+			intervals [502]:
+				xmin = 91.49
+				xmax = 91.73
+				text = "啊"
+			intervals [503]:
+				xmin = 91.73
+				xmax = 91.87
+				text = "任"
+			intervals [504]:
+				xmin = 91.87
+				xmax = 92.03
+				text = "意"
+			intervals [505]:
+				xmin = 92.03
+				xmax = 92.21
+				text = "其"
+			intervals [506]:
+				xmin = 92.21
+				xmax = 92.33
+				text = "中"
+			intervals [507]:
+				xmin = 92.33
+				xmax = 92.43
+				text = "的"
+			intervals [508]:
+				xmin = 92.43
+				xmax = 92.53
+				text = "一"
+			intervals [509]:
+				xmin = 92.53
+				xmax = 92.61
+				text = "组"
+			intervals [510]:
+				xmin = 92.61
+				xmax = 92.75
+				text = "就"
+			intervals [511]:
+				xmin = 92.75
+				xmax = 92.87
+				text = "可"
+			intervals [512]:
+				xmin = 92.87
+				xmax = 93.03
+				text = "以"
+			intervals [513]:
+				xmin = 93.03
+				xmax = 93.15
+				text = "哈"
+			intervals [514]:
+				xmin = 93.15
+				xmax = 93.39
+				text = "那"
+			intervals [515]:
+				xmin = 93.39
+				xmax = 93.57
+				text = ""
+			intervals [516]:
+				xmin = 93.57
+				xmax = 93.75
+				text = "你"
+			intervals [517]:
+				xmin = 93.75
+				xmax = 93.87
+				text = "看"
+			intervals [518]:
+				xmin = 93.87
+				xmax = 94.11
+				text = "如"
+			intervals [519]:
+				xmin = 94.11
+				xmax = 94.51
+				text = ""
+			intervals [520]:
+				xmin = 94.51
+				xmax = 94.65
+				text = "果"
+			intervals [521]:
+				xmin = 94.65
+				xmax = 94.83
+				text = "我"
+			intervals [522]:
+				xmin = 94.83
+				xmax = 94.93
+				text = "们"
+			intervals [523]:
+				xmin = 94.93
+				xmax = 95.01
+				text = "是"
+			intervals [524]:
+				xmin = 95.01
+				xmax = 95.31
+				text = "CF"
+			intervals [525]:
+				xmin = 95.31
+				xmax = 95.55
+				text = "平"
+			intervals [526]:
+				xmin = 95.55
+				xmax = 95.63
+				text = ""
+			intervals [527]:
+				xmin = 95.63
+				xmax = 95.79
+				text = "行"
+			intervals [528]:
+				xmin = 95.79
+				xmax = 96.01
+				text = "于"
+			intervals [529]:
+				xmin = 96.01
+				xmax = 96.13
+				text = "角"
+			intervals [530]:
+				xmin = 96.13
+				xmax = 96.35
+				text = "b"
+			intervals [531]:
+				xmin = 96.35
+				xmax = 96.49
+				text = "的"
+			intervals [532]:
+				xmin = 96.49
+				xmax = 96.61
+				text = "那"
+			intervals [533]:
+				xmin = 96.61
+				xmax = 96.81
+				text = "那"
+			intervals [534]:
+				xmin = 96.81
+				xmax = 97.15
+				text = "BD"
+			intervals [535]:
+				xmin = 97.15
+				xmax = 97.27
+				text = "的"
+			intervals [536]:
+				xmin = 97.27
+				xmax = 97.39
+				text = "话"
+			intervals [537]:
+				xmin = 97.39
+				xmax = 97.57
+				text = "呢"
+			intervals [538]:
+				xmin = 97.57
+				xmax = 97.69
+				text = "等"
+			intervals [539]:
+				xmin = 97.69
+				xmax = 97.83
+				text = "于"
+			intervals [540]:
+				xmin = 97.83
+				xmax = 98.05
+				text = "b"
+			intervals [541]:
+				xmin = 98.05
+				xmax = 98.23
+				text = "角"
+			intervals [542]:
+				xmin = 98.23
+				xmax = 98.47
+				text = "线"
+			intervals [543]:
+				xmin = 98.47
+				xmax = 98.57
+				text = ""
+			intervals [544]:
+				xmin = 98.57
+				xmax = 98.79
+				text = "那"
+			intervals [545]:
+				xmin = 98.79
+				xmax = 98.95
+				text = "我"
+			intervals [546]:
+				xmin = 98.95
+				xmax = 99.09
+				text = "们"
+			intervals [547]:
+				xmin = 99.09
+				xmax = 99.25
+				text = "形"
+			intervals [548]:
+				xmin = 99.25
+				xmax = 99.37
+				text = "成"
+			intervals [549]:
+				xmin = 99.37
+				xmax = 99.49
+				text = "的"
+			intervals [550]:
+				xmin = 99.49
+				xmax = 99.61
+				text = "其"
+			intervals [551]:
+				xmin = 99.61
+				xmax = 99.73
+				text = "实"
+			intervals [552]:
+				xmin = 99.73
+				xmax = 99.85
+				text = "就"
+			intervals [553]:
+				xmin = 99.85
+				xmax = 99.99
+				text = "是"
+			intervals [554]:
+				xmin = 99.99
+				xmax = 100.15
+				text = "角"
+			intervals [555]:
+				xmin = 100.15
+				xmax = 100.33
+				text = "b"
+			intervals [556]:
+				xmin = 100.33
+				xmax = 100.45
+				text = "和"
+			intervals [557]:
+				xmin = 100.45
+				xmax = 100.69
+				text = "谁"
+			intervals [558]:
+				xmin = 100.69
+				xmax = 100.93
+				text = "呢"
+			intervals [559]:
+				xmin = 100.93
+				xmax = 101.13
+				text = ""
+			intervals [560]:
+				xmin = 101.13
+				xmax = 101.37
+				text = "对"
+			intervals [561]:
+				xmin = 101.37
+				xmax = 101.53
+				text = ""
+			intervals [562]:
+				xmin = 101.53
+				xmax = 101.71
+				text = "角"
+			intervals [563]:
+				xmin = 101.71
+				xmax = 101.89
+				text = "b"
+			intervals [564]:
+				xmin = 101.89
+				xmax = 102.07
+				text = "和"
+			intervals [565]:
+				xmin = 102.07
+				xmax = 102.27
+				text = "角"
+			intervals [566]:
+				xmin = 102.27
+				xmax = 102.91
+				text = "FCD"
+			intervals [567]:
+				xmin = 102.91
+				xmax = 103.15
+				text = "哈"
+			intervals [568]:
+				xmin = 103.15
+				xmax = 103.35
+				text = ""
+			intervals [569]:
+				xmin = 103.35
+				xmax = 103.57
+				text = "而"
+			intervals [570]:
+				xmin = 103.57
+				xmax = 103.69
+				text = "这"
+			intervals [571]:
+				xmin = 103.69
+				xmax = 103.79
+				text = "组"
+			intervals [572]:
+				xmin = 103.79
+				xmax = 103.93
+				text = "角"
+			intervals [573]:
+				xmin = 103.93
+				xmax = 104.07
+				text = "的"
+			intervals [574]:
+				xmin = 104.07
+				xmax = 104.17
+				text = "话"
+			intervals [575]:
+				xmin = 104.17
+				xmax = 104.29
+				text = "呢"
+			intervals [576]:
+				xmin = 104.29
+				xmax = 104.41
+				text = "是"
+			intervals [577]:
+				xmin = 104.41
+				xmax = 104.49
+				text = "是"
+			intervals [578]:
+				xmin = 104.49
+				xmax = 104.57
+				text = "是"
+			intervals [579]:
+				xmin = 104.57
+				xmax = 104.65
+				text = "就"
+			intervals [580]:
+				xmin = 104.65
+				xmax = 104.75
+				text = "是"
+			intervals [581]:
+				xmin = 104.75
+				xmax = 104.83
+				text = "我"
+			intervals [582]:
+				xmin = 104.83
+				xmax = 104.91
+				text = "们"
+			intervals [583]:
+				xmin = 104.91
+				xmax = 104.99
+				text = "们"
+			intervals [584]:
+				xmin = 104.99
+				xmax = 105.09
+				text = "的"
+			intervals [585]:
+				xmin = 105.09
+				xmax = 105.21
+				text = "同"
+			intervals [586]:
+				xmin = 105.21
+				xmax = 105.39
+				text = "c"
+			intervals [587]:
+				xmin = 105.39
+				xmax = 105.63
+				text = "角"
+			intervals [588]:
+				xmin = 105.63
+				xmax = 105.71
+				text = ""
+			intervals [589]:
+				xmin = 105.71
+				xmax = 105.81
+				text = "对"
+			intervals [590]:
+				xmin = 105.81
+				xmax = 106.05
+				text = "吧"
+			intervals [591]:
+				xmin = 106.05
+				xmax = 106.17
+				text = ""
+			intervals [592]:
+				xmin = 106.17
+				xmax = 106.35
+				text = "那"
+			intervals [593]:
+				xmin = 106.35
+				xmax = 106.45
+				text = "我"
+			intervals [594]:
+				xmin = 106.45
+				xmax = 106.55
+				text = "们"
+			intervals [595]:
+				xmin = 106.55
+				xmax = 106.65
+				text = "就"
+			intervals [596]:
+				xmin = 106.65
+				xmax = 106.73
+				text = "可"
+			intervals [597]:
+				xmin = 106.73
+				xmax = 106.81
+				text = "以"
+			intervals [598]:
+				xmin = 106.81
+				xmax = 106.95
+				text = "它"
+			intervals [599]:
+				xmin = 106.95
+				xmax = 107.19
+				text = "相"
+			intervals [600]:
+				xmin = 107.19
+				xmax = 107.21
+				text = ""
+			intervals [601]:
+				xmin = 107.21
+				xmax = 107.37
+				text = "相"
+			intervals [602]:
+				xmin = 107.37
+				xmax = 107.61
+				text = "等"
+			intervals [603]:
+				xmin = 107.61
+				xmax = 107.67
+				text = ""
+			intervals [604]:
+				xmin = 107.67
+				xmax = 107.91
+				text = "那"
+			intervals [605]:
+				xmin = 107.91
+				xmax = 108.05
+				text = ""
+			intervals [606]:
+				xmin = 108.05
+				xmax = 108.27
+				text = "那"
+			intervals [607]:
+				xmin = 108.27
+				xmax = 108.39
+				text = "么"
+			intervals [608]:
+				xmin = 108.39
+				xmax = 108.51
+				text = "为"
+			intervals [609]:
+				xmin = 108.51
+				xmax = 108.65
+				text = "为"
+			intervals [610]:
+				xmin = 108.65
+				xmax = 108.79
+				text = "c"
+			intervals [611]:
+				xmin = 108.79
+				xmax = 109.03
+				text = "的"
+			intervals [612]:
+				xmin = 109.03
+				xmax = 109.15
+				text = "的"
+			intervals [613]:
+				xmin = 109.15
+				xmax = 109.27
+				text = "话"
+			intervals [614]:
+				xmin = 109.27
+				xmax = 109.47
+				text = "是"
+			intervals [615]:
+				xmin = 109.47
+				xmax = 109.63
+				text = "平"
+			intervals [616]:
+				xmin = 109.63
+				xmax = 109.81
+				text = "分"
+			intervals [617]:
+				xmin = 109.81
+				xmax = 109.93
+				text = "角"
+			intervals [618]:
+				xmin = 109.93
+				xmax = 110.11
+				text = "角"
+			intervals [619]:
+				xmin = 110.11
+				xmax = 110.65
+				text = "EDD"
+			intervals [620]:
+				xmin = 110.65
+				xmax = 110.89
+				text = ""
+			intervals [621]:
+				xmin = 110.89
+				xmax = 111.07
+				text = "所"
+			intervals [622]:
+				xmin = 111.07
+				xmax = 111.19
+				text = "以"
+			intervals [623]:
+				xmin = 111.19
+				xmax = 111.43
+				text = "呢"
+			intervals [624]:
+				xmin = 111.43
+				xmax = 111.45
+				text = ""
+			intervals [625]:
+				xmin = 111.45
+				xmax = 111.69
+				text = "角"
+			intervals [626]:
+				xmin = 111.69
+				xmax = 112.39
+				text = "ECD"
+			intervals [627]:
+				xmin = 112.39
+				xmax = 112.51
+				text = "的"
+			intervals [628]:
+				xmin = 112.51
+				xmax = 112.63
+				text = "话"
+			intervals [629]:
+				xmin = 112.63
+				xmax = 112.81
+				text = "那"
+			intervals [630]:
+				xmin = 112.81
+				xmax = 112.89
+				text = "是"
+			intervals [631]:
+				xmin = 112.89
+				xmax = 112.97
+				text = "不"
+			intervals [632]:
+				xmin = 112.97
+				xmax = 113.07
+				text = "是"
+			intervals [633]:
+				xmin = 113.07
+				xmax = 113.19
+				text = "就"
+			intervals [634]:
+				xmin = 113.19
+				xmax = 113.39
+				text = "是"
+			intervals [635]:
+				xmin = 113.39
+				xmax = 113.57
+				text = "二"
+			intervals [636]:
+				xmin = 113.57
+				xmax = 113.69
+				text = "分"
+			intervals [637]:
+				xmin = 113.69
+				xmax = 113.77
+				text = "之"
+			intervals [638]:
+				xmin = 113.77
+				xmax = 113.87
+				text = "一"
+			intervals [639]:
+				xmin = 113.87
+				xmax = 113.99
+				text = "的"
+			intervals [640]:
+				xmin = 113.99
+				xmax = 114.17
+				text = "角"
+			intervals [641]:
+				xmin = 114.17
+				xmax = 115.19
+				text = "EDD"
+			intervals [642]:
+				xmin = 115.19
+				xmax = 115.27
+				text = "那"
+			intervals [643]:
+				xmin = 115.27
+				xmax = 115.37
+				text = "么"
+			intervals [644]:
+				xmin = 115.37
+				xmax = 115.49
+				text = "么"
+			intervals [645]:
+				xmin = 115.49
+				xmax = 115.57
+				text = "我"
+			intervals [646]:
+				xmin = 115.57
+				xmax = 115.65
+				text = "们"
+			intervals [647]:
+				xmin = 115.65
+				xmax = 115.79
+				text = "说"
+			intervals [648]:
+				xmin = 115.79
+				xmax = 116.11
+				text = "ECC"
+			intervals [649]:
+				xmin = 116.11
+				xmax = 116.21
+				text = "是"
+			intervals [650]:
+				xmin = 116.21
+				xmax = 116.29
+				text = "九"
+			intervals [651]:
+				xmin = 116.29
+				xmax = 116.39
+				text = "十"
+			intervals [652]:
+				xmin = 116.39
+				xmax = 116.57
+				text = "度"
+			intervals [653]:
+				xmin = 116.57
+				xmax = 116.81
+				text = "度"
+			intervals [654]:
+				xmin = 116.81
+				xmax = 117.29
+				text = ""
+			intervals [655]:
+				xmin = 117.29
+				xmax = 117.53
+				text = "哈"
+			intervals [656]:
+				xmin = 117.53
+				xmax = 117.55
+				text = ""
+			intervals [657]:
+				xmin = 117.55
+				xmax = 117.65
+				text = "那"
+			intervals [658]:
+				xmin = 117.65
+				xmax = 117.83
+				text = "么"
+			intervals [659]:
+				xmin = 117.83
+				xmax = 117.95
+				text = "呢"
+			intervals [660]:
+				xmin = 117.95
+				xmax = 118.07
+				text = "它"
+			intervals [661]:
+				xmin = 118.07
+				xmax = 118.19
+				text = "是"
+			intervals [662]:
+				xmin = 118.19
+				xmax = 118.37
+				text = "九"
+			intervals [663]:
+				xmin = 118.37
+				xmax = 118.49
+				text = "十"
+			intervals [664]:
+				xmin = 118.49
+				xmax = 118.73
+				text = "度"
+			intervals [665]:
+				xmin = 118.73
+				xmax = 118.85
+				text = "哈"
+			intervals [666]:
+				xmin = 118.85
+				xmax = 118.93
+				text = "然"
+			intervals [667]:
+				xmin = 118.93
+				xmax = 119.17
+				text = "后"
+			intervals [668]:
+				xmin = 119.17
+				xmax = 119.39
+				text = ""
+			intervals [669]:
+				xmin = 119.39
+				xmax = 119.57
+				text = "呢"
+			intervals [670]:
+				xmin = 119.57
+				xmax = 119.69
+				text = "这"
+			intervals [671]:
+				xmin = 119.69
+				xmax = 119.81
+				text = "两"
+			intervals [672]:
+				xmin = 119.81
+				xmax = 120.05
+				text = "个"
+			intervals [673]:
+				xmin = 120.05
+				xmax = 120.19
+				text = "角"
+			intervals [674]:
+				xmin = 120.19
+				xmax = 120.35
+				text = "相"
+			intervals [675]:
+				xmin = 120.35
+				xmax = 120.59
+				text = "等"
+			intervals [676]:
+				xmin = 120.59
+				xmax = 120.61
+				text = ""
+			intervals [677]:
+				xmin = 120.61
+				xmax = 120.77
+				text = "等"
+			intervals [678]:
+				xmin = 120.77
+				xmax = 120.89
+				text = "等"
+			intervals [679]:
+				xmin = 120.89
+				xmax = 121.05
+				text = "等"
+			intervals [680]:
+				xmin = 121.05
+				xmax = 121.19
+				text = "于"
+			intervals [681]:
+				xmin = 121.19
+				xmax = 121.31
+				text = "十"
+			intervals [682]:
+				xmin = 121.31
+				xmax = 121.43
+				text = "五"
+			intervals [683]:
+				xmin = 121.43
+				xmax = 121.67
+				text = "度"
+			intervals [684]:
+				xmin = 121.67
+				xmax = 121.85
+				text = ""
+			intervals [685]:
+				xmin = 121.85
+				xmax = 121.95
+				text = "是"
+			intervals [686]:
+				xmin = 121.95
+				xmax = 122.19
+				text = "那"
+			intervals [687]:
+				xmin = 122.19
+				xmax = 122.21
+				text = ""
+			intervals [688]:
+				xmin = 122.21
+				xmax = 122.45
+				text = "那"
+			intervals [689]:
+				xmin = 122.45
+				xmax = 122.69
+				text = ""
+			intervals [690]:
+				xmin = 122.69
+				xmax = 122.85
+				text = "那"
+			intervals [691]:
+				xmin = 122.85
+				xmax = 122.97
+				text = "同"
+			intervals [692]:
+				xmin = 122.97
+				xmax = 123.11
+				text = "角"
+			intervals [693]:
+				xmin = 123.11
+				xmax = 123.27
+				text = "角"
+			intervals [694]:
+				xmin = 123.27
+				xmax = 123.39
+				text = "相"
+			intervals [695]:
+				xmin = 123.39
+				xmax = 123.53
+				text = "话"
+			intervals [696]:
+				xmin = 123.53
+				xmax = 123.63
+				text = "呢"
+			intervals [697]:
+				xmin = 123.63
+				xmax = 123.73
+				text = "我"
+			intervals [698]:
+				xmin = 123.73
+				xmax = 123.81
+				text = "们"
+			intervals [699]:
+				xmin = 123.81
+				xmax = 123.89
+				text = "是"
+			intervals [700]:
+				xmin = 123.89
+				xmax = 123.99
+				text = "不"
+			intervals [701]:
+				xmin = 123.99
+				xmax = 124.07
+				text = "是"
+			intervals [702]:
+				xmin = 124.07
+				xmax = 124.15
+				text = "就"
+			intervals [703]:
+				xmin = 124.15
+				xmax = 124.29
+				text = "可"
+			intervals [704]:
+				xmin = 124.29
+				xmax = 124.41
+				text = "以"
+			intervals [705]:
+				xmin = 124.41
+				xmax = 124.55
+				text = "判"
+			intervals [706]:
+				xmin = 124.55
+				xmax = 124.65
+				text = "定"
+			intervals [707]:
+				xmin = 124.65
+				xmax = 124.77
+				text = "两"
+			intervals [708]:
+				xmin = 124.77
+				xmax = 124.91
+				text = "直"
+			intervals [709]:
+				xmin = 124.91
+				xmax = 125.07
+				text = "线"
+			intervals [710]:
+				xmin = 125.07
+				xmax = 125.25
+				text = "平"
+			intervals [711]:
+				xmin = 125.25
+				xmax = 125.49
+				text = "行"
+			intervals [712]:
+				xmin = 125.49
+				xmax = 125.55
+				text = ""
+			intervals [713]:
+				xmin = 125.55
+				xmax = 125.67
+				text = "了"
+			intervals [714]:
+				xmin = 125.67
+				xmax = 125.91
+				text = "对"
+			intervals [715]:
+				xmin = 125.91
+				xmax = 126.13
+				text = ""
+			intervals [716]:
+				xmin = 126.13
+				xmax = 126.33
+				text = "吧"
+			intervals [717]:
+				xmin = 126.33
+				xmax = 126.47
+				text = "好"
+			intervals [718]:
+				xmin = 126.47
+				xmax = 126.57
+				text = "那"
+			intervals [719]:
+				xmin = 126.57
+				xmax = 126.69
+				text = "我"
+			intervals [720]:
+				xmin = 126.69
+				xmax = 126.83
+				text = "们"
+			intervals [721]:
+				xmin = 126.83
+				xmax = 126.93
+				text = "写"
+			intervals [722]:
+				xmin = 126.93
+				xmax = 127.07
+				text = "一"
+			intervals [723]:
+				xmin = 127.07
+				xmax = 127.15
+				text = "下"
+			intervals [724]:
+				xmin = 127.15
+				xmax = 127.25
+				text = "这"
+			intervals [725]:
+				xmin = 127.25
+				xmax = 127.41
+				text = "个"
+			intervals [726]:
+				xmin = 127.41
+				xmax = 127.59
+				text = "过"
+			intervals [727]:
+				xmin = 127.59
+				xmax = 127.83
+				text = "程"
+			intervals [728]:
+				xmin = 127.83
+				xmax = 128.47
+				text = ""
+			intervals [729]:
+				xmin = 128.47
+				xmax = 128.67
+				text = "那"
+			intervals [730]:
+				xmin = 128.67
+				xmax = 128.789
+				text = "那"
+			intervals [731]:
+				xmin = 128.789
+				xmax = 128.89
+				text = "那"
+			intervals [732]:
+				xmin = 128.89
+				xmax = 129.05
+				text = "我"
+			intervals [733]:
+				xmin = 129.05
+				xmax = 129.289
+				text = "们"
+			intervals [734]:
+				xmin = 129.289
+				xmax = 129.31
+				text = ""
+			intervals [735]:
+				xmin = 129.31
+				xmax = 129.55
+				text = "先"
+			intervals [736]:
+				xmin = 129.55
+				xmax = 129.63
+				text = ""
+			intervals [737]:
+				xmin = 129.63
+				xmax = 129.87
+				text = "哈"
+			intervals [738]:
+				xmin = 129.87
+				xmax = 130.57
+				text = ""
+			intervals [739]:
+				xmin = 130.57
+				xmax = 130.81
+				text = "那"
+			intervals [740]:
+				xmin = 130.81
+				xmax = 131.07
+				text = ""
+			intervals [741]:
+				xmin = 131.07
+				xmax = 131.25
+				text = "那"
+			intervals [742]:
+				xmin = 131.25
+				xmax = 131.39
+				text = "那"
+			intervals [743]:
+				xmin = 131.39
+				xmax = 131.55
+				text = "们"
+			intervals [744]:
+				xmin = 131.55
+				xmax = 131.73
+				text = "先"
+			intervals [745]:
+				xmin = 131.73
+				xmax = 131.85
+				text = "的"
+			intervals [746]:
+				xmin = 131.85
+				xmax = 131.97
+				text = "话"
+			intervals [747]:
+				xmin = 131.97
+				xmax = 132.09
+				text = "呢"
+			intervals [748]:
+				xmin = 132.09
+				xmax = 132.17
+				text = "呢"
+			intervals [749]:
+				xmin = 132.17
+				xmax = 132.27
+				text = "们"
+			intervals [750]:
+				xmin = 132.27
+				xmax = 132.51
+				text = "说"
+			intervals [751]:
+				xmin = 132.51
+				xmax = 132.95
+				text = ""
+			intervals [752]:
+				xmin = 132.95
+				xmax = 133.19
+				text = "那"
+			intervals [753]:
+				xmin = 133.19
+				xmax = 133.35
+				text = ""
+			intervals [754]:
+				xmin = 133.35
+				xmax = 133.59
+				text = "那"
+			intervals [755]:
+				xmin = 133.59
+				xmax = 133.65
+				text = ""
+			intervals [756]:
+				xmin = 133.65
+				xmax = 133.83
+				text = "题"
+			intervals [757]:
+				xmin = 133.83
+				xmax = 134.07
+				text = "c"
+			intervals [758]:
+				xmin = 134.07
+				xmax = 134.09
+				text = ""
+			intervals [759]:
+				xmin = 134.09
+				xmax = 134.31
+				text = "的"
+			intervals [760]:
+				xmin = 134.31
+				xmax = 134.55
+				text = "话"
+			intervals [761]:
+				xmin = 134.55
+				xmax = 138.83
+				text = ""
+			intervals [762]:
+				xmin = 138.83
+				xmax = 139.07
+				text = "那"
+			intervals [763]:
+				xmin = 139.07
+				xmax = 139.29
+				text = "那"
+			intervals [764]:
+				xmin = 139.29
+				xmax = 139.41
+				text = "题"
+			intervals [765]:
+				xmin = 139.41
+				xmax = 139.51
+				text = "什"
+			intervals [766]:
+				xmin = 139.51
+				xmax = 139.61
+				text = "么"
+			intervals [767]:
+				xmin = 139.61
+				xmax = 139.71
+				text = "呢"
+			intervals [768]:
+				xmin = 139.71
+				xmax = 139.81
+				text = "就"
+			intervals [769]:
+				xmin = 139.81
+				xmax = 139.95
+				text = "是"
+			intervals [770]:
+				xmin = 139.95
+				xmax = 140.05
+				text = "这"
+			intervals [771]:
+				xmin = 140.05
+				xmax = 140.29
+				text = "个"
+			intervals [772]:
+				xmin = 140.29
+				xmax = 140.31
+				text = ""
+			intervals [773]:
+				xmin = 140.31
+				xmax = 140.55
+				text = "一"
+			intervals [774]:
+				xmin = 140.55
+				xmax = 140.81
+				text = ""
+			intervals [775]:
+				xmin = 140.81
+				xmax = 141.05
+				text = "副"
+			intervals [776]:
+				xmin = 141.05
+				xmax = 141.15
+				text = ""
+			intervals [777]:
+				xmin = 141.15
+				xmax = 141.39
+				text = "三"
+			intervals [778]:
+				xmin = 141.39
+				xmax = 141.45
+				text = ""
+			intervals [779]:
+				xmin = 141.45
+				xmax = 141.69
+				text = "角"
+			intervals [780]:
+				xmin = 141.69
+				xmax = 141.75
+				text = ""
+			intervals [781]:
+				xmin = 141.75
+				xmax = 141.99
+				text = "尺"
+			intervals [782]:
+				xmin = 141.99
+				xmax = 143.73
+				text = ""
+			intervals [783]:
+				xmin = 143.73
+				xmax = 143.97
+				text = "啊"
+			intervals [784]:
+				xmin = 143.97
+				xmax = 144.09
+				text = "那"
+			intervals [785]:
+				xmin = 144.09
+				xmax = 144.33
+				text = "我"
+			intervals [786]:
+				xmin = 144.33
+				xmax = 144.41
+				text = ""
+			intervals [787]:
+				xmin = 144.41
+				xmax = 144.65
+				text = "们"
+			intervals [788]:
+				xmin = 144.65
+				xmax = 144.69
+				text = ""
+			intervals [789]:
+				xmin = 144.69
+				xmax = 144.93
+				text = "角"
+			intervals [790]:
+				xmin = 144.93
+				xmax = 144.95
+				text = ""
+			intervals [791]:
+				xmin = 144.95
+				xmax = 145.05
+				text = "b"
+			intervals [792]:
+				xmin = 145.05
+				xmax = 145.23
+				text = "的"
+			intervals [793]:
+				xmin = 145.23
+				xmax = 145.35
+				text = "话"
+			intervals [794]:
+				xmin = 145.35
+				xmax = 145.59
+				text = "呢"
+			intervals [795]:
+				xmin = 145.59
+				xmax = 145.71
+				text = "是"
+			intervals [796]:
+				xmin = 145.71
+				xmax = 145.91
+				text = "等"
+			intervals [797]:
+				xmin = 145.91
+				xmax = 146.07
+				text = "于"
+			intervals [798]:
+				xmin = 146.07
+				xmax = 146.19
+				text = "四"
+			intervals [799]:
+				xmin = 146.19
+				xmax = 146.31
+				text = "十"
+			intervals [800]:
+				xmin = 146.31
+				xmax = 146.49
+				text = "五"
+			intervals [801]:
+				xmin = 146.49
+				xmax = 146.73
+				text = "度"
+			intervals [802]:
+				xmin = 146.73
+				xmax = 147.77
+				text = ""
+			intervals [803]:
+				xmin = 147.77
+				xmax = 147.93
+				text = "的"
+			intervals [804]:
+				xmin = 147.93
+				xmax = 148.05
+				text = "然"
+			intervals [805]:
+				xmin = 148.05
+				xmax = 148.25
+				text = "后"
+			intervals [806]:
+				xmin = 148.25
+				xmax = 148.49
+				text = "呢"
+			intervals [807]:
+				xmin = 148.49
+				xmax = 148.53
+				text = ""
+			intervals [808]:
+				xmin = 148.53
+				xmax = 148.77
+				text = "角"
+			intervals [809]:
+				xmin = 148.77
+				xmax = 148.79
+				text = ""
+			intervals [810]:
+				xmin = 148.79
+				xmax = 149.43
+				text = "ECD"
+			intervals [811]:
+				xmin = 149.43
+				xmax = 149.55
+				text = "的"
+			intervals [812]:
+				xmin = 149.55
+				xmax = 149.75
+				text = "话"
+			intervals [813]:
+				xmin = 149.75
+				xmax = 149.91
+				text = "呢"
+			intervals [814]:
+				xmin = 149.91
+				xmax = 150.05
+				text = "它"
+			intervals [815]:
+				xmin = 150.05
+				xmax = 150.15
+				text = "是"
+			intervals [816]:
+				xmin = 150.15
+				xmax = 150.35
+				text = "等"
+			intervals [817]:
+				xmin = 150.35
+				xmax = 150.51
+				text = "于"
+			intervals [818]:
+				xmin = 150.51
+				xmax = 150.69
+				text = "九"
+			intervals [819]:
+				xmin = 150.69
+				xmax = 150.81
+				text = "十"
+			intervals [820]:
+				xmin = 150.81
+				xmax = 150.95
+				text = "度"
+			intervals [821]:
+				xmin = 150.95
+				xmax = 151.19
+				text = "的"
+			intervals [822]:
+				xmin = 151.19
+				xmax = 151.87
+				text = ""
+			intervals [823]:
+				xmin = 151.87
+				xmax = 152.07
+				text = "哈"
+			intervals [824]:
+				xmin = 152.07
+				xmax = 152.25
+				text = "那"
+			intervals [825]:
+				xmin = 152.25
+				xmax = 152.37
+				text = "么"
+			intervals [826]:
+				xmin = 152.37
+				xmax = 152.61
+				text = "因"
+			intervals [827]:
+				xmin = 152.61
+				xmax = 152.97
+				text = ""
+			intervals [828]:
+				xmin = 152.97
+				xmax = 153.21
+				text = "为"
+			intervals [829]:
+				xmin = 153.21
+				xmax = 153.35
+				text = ""
+			intervals [830]:
+				xmin = 153.35
+				xmax = 153.51
+				text = "呃"
+			intervals [831]:
+				xmin = 153.51
+				xmax = 154.13
+				text = "CF"
+			intervals [832]:
+				xmin = 154.13
+				xmax = 154.35
+				text = "呢"
+			intervals [833]:
+				xmin = 154.35
+				xmax = 154.53
+				text = "平"
+			intervals [834]:
+				xmin = 154.53
+				xmax = 154.77
+				text = "分"
+			intervals [835]:
+				xmin = 154.77
+				xmax = 155.85
+				text = ""
+			intervals [836]:
+				xmin = 155.85
+				xmax = 156.09
+				text = "了"
+			intervals [837]:
+				xmin = 156.09
+				xmax = 156.21
+				text = ""
+			intervals [838]:
+				xmin = 156.21
+				xmax = 156.45
+				text = "角"
+			intervals [839]:
+				xmin = 156.45
+				xmax = 156.51
+				text = ""
+			intervals [840]:
+				xmin = 156.51
+				xmax = 157.77
+				text = "DCE"
+			intervals [841]:
+				xmin = 157.77
+				xmax = 157.97
+				text = "那"
+			intervals [842]:
+				xmin = 157.97
+				xmax = 158.13
+				text = "么"
+			intervals [843]:
+				xmin = 158.13
+				xmax = 158.25
+				text = "所"
+			intervals [844]:
+				xmin = 158.25
+				xmax = 158.39
+				text = "以"
+			intervals [845]:
+				xmin = 158.39
+				xmax = 158.49
+				text = "说"
+			intervals [846]:
+				xmin = 158.49
+				xmax = 158.57
+				text = "我"
+			intervals [847]:
+				xmin = 158.57
+				xmax = 158.65
+				text = "们"
+			intervals [848]:
+				xmin = 158.65
+				xmax = 158.77
+				text = "就"
+			intervals [849]:
+				xmin = 158.77
+				xmax = 158.87
+				text = "可"
+			intervals [850]:
+				xmin = 158.87
+				xmax = 158.99
+				text = "以"
+			intervals [851]:
+				xmin = 158.99
+				xmax = 159.11
+				text = "得"
+			intervals [852]:
+				xmin = 159.11
+				xmax = 159.29
+				text = "到"
+			intervals [853]:
+				xmin = 159.29
+				xmax = 159.47
+				text = "角"
+			intervals [854]:
+				xmin = 159.47
+				xmax = 160.25
+				text = "FCD"
+			intervals [855]:
+				xmin = 160.25
+				xmax = 160.27
+				text = ""
+			intervals [856]:
+				xmin = 160.27
+				xmax = 160.49
+				text = "等"
+			intervals [857]:
+				xmin = 160.49
+				xmax = 160.63
+				text = "于"
+			intervals [858]:
+				xmin = 160.63
+				xmax = 160.85
+				text = "二"
+			intervals [859]:
+				xmin = 160.85
+				xmax = 161.05
+				text = "分"
+			intervals [860]:
+				xmin = 161.05
+				xmax = 161.21
+				text = "之"
+			intervals [861]:
+				xmin = 161.21
+				xmax = 161.39
+				text = "一"
+			intervals [862]:
+				xmin = 161.39
+				xmax = 161.51
+				text = "的"
+			intervals [863]:
+				xmin = 161.51
+				xmax = 161.75
+				text = "角"
+			intervals [864]:
+				xmin = 161.75
+				xmax = 162.13
+				text = ""
+			intervals [865]:
+				xmin = 162.13
+				xmax = 162.81
+				text = "ECD"
+			intervals [866]:
+				xmin = 162.81
+				xmax = 163.05
+				text = "啊"
+			intervals [867]:
+				xmin = 163.05
+				xmax = 164.13
+				text = ""
+			intervals [868]:
+				xmin = 164.13
+				xmax = 164.31
+				text = "也"
+			intervals [869]:
+				xmin = 164.31
+				xmax = 164.43
+				text = "就"
+			intervals [870]:
+				xmin = 164.43
+				xmax = 164.55
+				text = "等"
+			intervals [871]:
+				xmin = 164.55
+				xmax = 164.65
+				text = "于"
+			intervals [872]:
+				xmin = 164.65
+				xmax = 164.79
+				text = "二"
+			intervals [873]:
+				xmin = 164.79
+				xmax = 165.03
+				text = "分"
+			intervals [874]:
+				xmin = 165.03
+				xmax = 165.15
+				text = "之"
+			intervals [875]:
+				xmin = 165.15
+				xmax = 165.33
+				text = "一"
+			intervals [876]:
+				xmin = 165.33
+				xmax = 165.45
+				text = "乘"
+			intervals [877]:
+				xmin = 165.45
+				xmax = 165.59
+				text = "以"
+			intervals [878]:
+				xmin = 165.59
+				xmax = 165.75
+				text = "九"
+			intervals [879]:
+				xmin = 165.75
+				xmax = 165.93
+				text = "十"
+			intervals [880]:
+				xmin = 165.93
+				xmax = 166.17
+				text = "度"
+			intervals [881]:
+				xmin = 166.17
+				xmax = 166.73
+				text = ""
+			intervals [882]:
+				xmin = 166.73
+				xmax = 166.89
+				text = "结"
+			intervals [883]:
+				xmin = 166.89
+				xmax = 167.07
+				text = "果"
+			intervals [884]:
+				xmin = 167.07
+				xmax = 167.21
+				text = "呢"
+			intervals [885]:
+				xmin = 167.21
+				xmax = 167.37
+				text = "正"
+			intervals [886]:
+				xmin = 167.37
+				xmax = 167.55
+				text = "好"
+			intervals [887]:
+				xmin = 167.55
+				xmax = 167.75
+				text = "是"
+			intervals [888]:
+				xmin = 167.75
+				xmax = 167.91
+				text = "四"
+			intervals [889]:
+				xmin = 167.91
+				xmax = 168.03
+				text = "十"
+			intervals [890]:
+				xmin = 168.03
+				xmax = 168.15
+				text = "五"
+			intervals [891]:
+				xmin = 168.15
+				xmax = 168.39
+				text = "度"
+			intervals [892]:
+				xmin = 168.39
+				xmax = 168.95
+				text = ""
+			intervals [893]:
+				xmin = 168.95
+				xmax = 169.19
+				text = "哈"
+			intervals [894]:
+				xmin = 169.19
+				xmax = 169.39
+				text = ""
+			intervals [895]:
+				xmin = 169.39
+				xmax = 169.59
+				text = "那"
+			intervals [896]:
+				xmin = 169.59
+				xmax = 169.83
+				text = "么"
+			intervals [897]:
+				xmin = 169.83
+				xmax = 169.85
+				text = ""
+			intervals [898]:
+				xmin = 169.85
+				xmax = 169.95
+				text = "所"
+			intervals [899]:
+				xmin = 169.95
+				xmax = 170.13
+				text = "以"
+			intervals [900]:
+				xmin = 170.13
+				xmax = 170.25
+				text = "说"
+			intervals [901]:
+				xmin = 170.25
+				xmax = 170.33
+				text = "我"
+			intervals [902]:
+				xmin = 170.33
+				xmax = 170.43
+				text = "们"
+			intervals [903]:
+				xmin = 170.43
+				xmax = 170.57
+				text = "就"
+			intervals [904]:
+				xmin = 170.57
+				xmax = 170.65
+				text = "可"
+			intervals [905]:
+				xmin = 170.65
+				xmax = 170.73
+				text = "以"
+			intervals [906]:
+				xmin = 170.73
+				xmax = 170.81
+				text = "得"
+			intervals [907]:
+				xmin = 170.81
+				xmax = 170.93
+				text = "到"
+			intervals [908]:
+				xmin = 170.93
+				xmax = 171.17
+				text = "角"
+			intervals [909]:
+				xmin = 171.17
+				xmax = 171.21
+				text = ""
+			intervals [910]:
+				xmin = 171.21
+				xmax = 171.45
+				text = "b"
+			intervals [911]:
+				xmin = 171.45
+				xmax = 171.47
+				text = ""
+			intervals [912]:
+				xmin = 171.47
+				xmax = 171.69
+				text = "和"
+			intervals [913]:
+				xmin = 171.69
+				xmax = 171.91
+				text = "角"
+			intervals [914]:
+				xmin = 171.91
+				xmax = 172.59
+				text = "FCD"
+			intervals [915]:
+				xmin = 172.59
+				xmax = 172.71
+				text = "的"
+			intervals [916]:
+				xmin = 172.71
+				xmax = 172.83
+				text = "话"
+			intervals [917]:
+				xmin = 172.83
+				xmax = 172.95
+				text = "呢"
+			intervals [918]:
+				xmin = 172.95
+				xmax = 173.17
+				text = "是"
+			intervals [919]:
+				xmin = 173.17
+				xmax = 173.31
+				text = "相"
+			intervals [920]:
+				xmin = 173.31
+				xmax = 173.51
+				text = "等"
+			intervals [921]:
+				xmin = 173.51
+				xmax = 173.75
+				text = "的"
+			intervals [922]:
+				xmin = 173.75
+				xmax = 174.51
+				text = ""
+			intervals [923]:
+				xmin = 174.51
+				xmax = 174.69
+				text = "那"
+			intervals [924]:
+				xmin = 174.69
+				xmax = 174.93
+				text = "么"
+			intervals [925]:
+				xmin = 174.93
+				xmax = 175.01
+				text = "既"
+			intervals [926]:
+				xmin = 175.01
+				xmax = 175.23
+				text = "然"
+			intervals [927]:
+				xmin = 175.23
+				xmax = 175.35
+				text = "相"
+			intervals [928]:
+				xmin = 175.35
+				xmax = 175.59
+				text = "等"
+			intervals [929]:
+				xmin = 175.59
+				xmax = 175.79
+				text = "呢"
+			intervals [930]:
+				xmin = 175.79
+				xmax = 175.95
+				text = "所"
+			intervals [931]:
+				xmin = 175.95
+				xmax = 176.07
+				text = "以"
+			intervals [932]:
+				xmin = 176.07
+				xmax = 176.25
+				text = "说"
+			intervals [933]:
+				xmin = 176.25
+				xmax = 176.33
+				text = "我"
+			intervals [934]:
+				xmin = 176.33
+				xmax = 176.41
+				text = "们"
+			intervals [935]:
+				xmin = 176.41
+				xmax = 176.57
+				text = "就"
+			intervals [936]:
+				xmin = 176.57
+				xmax = 176.97
+				text = "AB"
+			intervals [937]:
+				xmin = 176.97
+				xmax = 177.05
+				text = ""
+			intervals [938]:
+				xmin = 177.05
+				xmax = 177.27
+				text = "平"
+			intervals [939]:
+				xmin = 177.27
+				xmax = 177.45
+				text = "行"
+			intervals [940]:
+				xmin = 177.45
+				xmax = 177.69
+				text = "于"
+			intervals [941]:
+				xmin = 177.69
+				xmax = 177.71
+				text = ""
+			intervals [942]:
+				xmin = 177.71
+				xmax = 177.87
+				text = "一"
+			intervals [943]:
+				xmin = 177.87
+				xmax = 178.11
+				text = "个"
+			intervals [944]:
+				xmin = 178.11
+				xmax = 178.17
+				text = ""
+			intervals [945]:
+				xmin = 178.17
+				xmax = 178.41
+				text = "啊"
+			intervals [946]:
+				xmin = 178.41
+				xmax = 178.65
+				text = ""
+			intervals [947]:
+				xmin = 178.65
+				xmax = 178.77
+				text = "这"
+			intervals [948]:
+				xmin = 178.77
+				xmax = 178.89
+				text = "样"
+			intervals [949]:
+				xmin = 178.89
+				xmax = 179.09
+				text = "就"
+			intervals [950]:
+				xmin = 179.09
+				xmax = 179.19
+				text = "可"
+			intervals [951]:
+				xmin = 179.19
+				xmax = 179.31
+				text = "以"
+			intervals [952]:
+				xmin = 179.31
+				xmax = 179.49
+				text = "了"
+			intervals [953]:
+				xmin = 179.49
+				xmax = 179.61
+				text = "对"
+			intervals [954]:
+				xmin = 179.61
+				xmax = 179.85
+				text = "吧"
+			intervals [955]:
+				xmin = 179.85
+				xmax = 180.03
+				text = ""
+			intervals [956]:
+				xmin = 180.03
+				xmax = 180.21
+				text = "好"
+			intervals [957]:
+				xmin = 180.21
+				xmax = 180.35
+				text = "那"
+			intervals [958]:
+				xmin = 180.35
+				xmax = 180.45
+				text = "最"
+			intervals [959]:
+				xmin = 180.45
+				xmax = 180.57
+				text = "后"
+			intervals [960]:
+				xmin = 180.57
+				xmax = 180.69
+				text = "的"
+			intervals [961]:
+				xmin = 180.69
+				xmax = 180.81
+				text = "话"
+			intervals [962]:
+				xmin = 180.81
+				xmax = 180.89
+				text = "我"
+			intervals [963]:
+				xmin = 180.89
+				xmax = 180.97
+				text = "们"
+			intervals [964]:
+				xmin = 180.97
+				xmax = 181.11
+				text = "四"
+			intervals [965]:
+				xmin = 181.11
+				xmax = 181.25
+				text = "十"
+			intervals [966]:
+				xmin = 181.25
+				xmax = 181.35
+				text = "五"
+			intervals [967]:
+				xmin = 181.35
+				xmax = 181.47
+				text = "度"
+			intervals [968]:
+				xmin = 181.47
+				xmax = 181.71
+				text = "哈"
+			intervals [969]:
+				xmin = 181.71
+				xmax = 181.95
+				text = ""
+			intervals [970]:
+				xmin = 181.95
+				xmax = 182.13
+				text = "首"
+			intervals [971]:
+				xmin = 182.13
+				xmax = 182.27
+				text = "先"
+			intervals [972]:
+				xmin = 182.27
+				xmax = 182.37
+				text = "的"
+			intervals [973]:
+				xmin = 182.37
+				xmax = 182.55
+				text = "话"
+			intervals [974]:
+				xmin = 182.55
+				xmax = 182.67
+				text = "呢"
+			intervals [975]:
+				xmin = 182.67
+				xmax = 182.75
+				text = "我"
+			intervals [976]:
+				xmin = 182.75
+				xmax = 182.83
+				text = "们"
+			intervals [977]:
+				xmin = 182.83
+				xmax = 182.91
+				text = "一"
+			intervals [978]:
+				xmin = 182.91
+				xmax = 183.01
+				text = "定"
+			intervals [979]:
+				xmin = 183.01
+				xmax = 183.09
+				text = "要"
+			intervals [980]:
+				xmin = 183.09
+				xmax = 183.23
+				text = "搞"
+			intervals [981]:
+				xmin = 183.23
+				xmax = 183.45
+				text = "清"
+			intervals [982]:
+				xmin = 183.45
+				xmax = 183.69
+				text = "楚"
+			intervals [983]:
+				xmin = 183.69
+				xmax = 183.81
+				text = ""
+			intervals [984]:
+				xmin = 183.81
+				xmax = 184.05
+				text = "一"
+			intervals [985]:
+				xmin = 184.05
+				xmax = 184.29
+				text = "副"
+			intervals [986]:
+				xmin = 184.29
+				xmax = 184.39
+				text = ""
+			intervals [987]:
+				xmin = 184.39
+				xmax = 184.59
+				text = "三"
+			intervals [988]:
+				xmin = 184.59
+				xmax = 184.83
+				text = "角"
+			intervals [989]:
+				xmin = 184.83
+				xmax = 184.89
+				text = ""
+			intervals [990]:
+				xmin = 184.89
+				xmax = 185.13
+				text = "尺"
+			intervals [991]:
+				xmin = 185.13
+				xmax = 185.31
+				text = ""
+			intervals [992]:
+				xmin = 185.31
+				xmax = 185.55
+				text = "中"
+			intervals [993]:
+				xmin = 185.55
+				xmax = 185.61
+				text = ""
+			intervals [994]:
+				xmin = 185.61
+				xmax = 185.83
+				text = "的"
+			intervals [995]:
+				xmin = 185.83
+				xmax = 186.03
+				text = "每"
+			intervals [996]:
+				xmin = 186.03
+				xmax = 186.21
+				text = "一"
+			intervals [997]:
+				xmin = 186.21
+				xmax = 186.33
+				text = "个"
+			intervals [998]:
+				xmin = 186.33
+				xmax = 186.43
+				text = "三"
+			intervals [999]:
+				xmin = 186.43
+				xmax = 186.67
+				text = "角"
+			intervals [1000]:
+				xmin = 186.67
+				xmax = 186.81
+				text = "形"
+			intervals [1001]:
+				xmin = 186.81
+				xmax = 186.91
+				text = "它"
+			intervals [1002]:
+				xmin = 186.91
+				xmax = 187.05
+				text = "的"
+			intervals [1003]:
+				xmin = 187.05
+				xmax = 187.21
+				text = "度"
+			intervals [1004]:
+				xmin = 187.21
+				xmax = 187.39
+				text = "数"
+			intervals [1005]:
+				xmin = 187.39
+				xmax = 187.55
+				text = "是"
+			intervals [1006]:
+				xmin = 187.55
+				xmax = 187.69
+				text = "多"
+			intervals [1007]:
+				xmin = 187.69
+				xmax = 187.93
+				text = "少"
+			intervals [1008]:
+				xmin = 187.93
+				xmax = 187.97
+				text = ""
+			intervals [1009]:
+				xmin = 187.97
+				xmax = 188.11
+				text = "对"
+			intervals [1010]:
+				xmin = 188.11
+				xmax = 188.35
+				text = "吧"
+			intervals [1011]:
+				xmin = 188.35
+				xmax = 188.65
+				text = ""
+			intervals [1012]:
+				xmin = 188.65
+				xmax = 188.83
+				text = "然"
+			intervals [1013]:
+				xmin = 188.83
+				xmax = 189.01
+				text = "后"
+			intervals [1014]:
+				xmin = 189.01
+				xmax = 189.25
+				text = "呢"
+			intervals [1015]:
+				xmin = 189.25
+				xmax = 189.51
+				text = ""
+			intervals [1016]:
+				xmin = 189.51
+				xmax = 189.67
+				text = "接"
+			intervals [1017]:
+				xmin = 189.67
+				xmax = 189.79
+				text = "下"
+			intervals [1018]:
+				xmin = 189.79
+				xmax = 189.97
+				text = "来"
+			intervals [1019]:
+				xmin = 189.97
+				xmax = 190.09
+				text = "的"
+			intervals [1020]:
+				xmin = 190.09
+				xmax = 190.21
+				text = "话"
+			intervals [1021]:
+				xmin = 190.21
+				xmax = 190.39
+				text = "呢"
+			intervals [1022]:
+				xmin = 190.39
+				xmax = 190.47
+				text = "我"
+			intervals [1023]:
+				xmin = 190.47
+				xmax = 190.57
+				text = "们"
+			intervals [1024]:
+				xmin = 190.57
+				xmax = 190.69
+				text = "用"
+			intervals [1025]:
+				xmin = 190.69
+				xmax = 190.81
+				text = "的"
+			intervals [1026]:
+				xmin = 190.81
+				xmax = 191.05
+				text = "是"
+			intervals [1027]:
+				xmin = 191.05
+				xmax = 191.09
+				text = ""
+			intervals [1028]:
+				xmin = 191.09
+				xmax = 191.33
+				text = "平"
+			intervals [1029]:
+				xmin = 191.33
+				xmax = 191.35
+				text = ""
+			intervals [1030]:
+				xmin = 191.35
+				xmax = 191.59
+				text = "行"
+			intervals [1031]:
+				xmin = 191.59
+				xmax = 191.83
+				text = "线"
+			intervals [1032]:
+				xmin = 191.83
+				xmax = 191.97
+				text = "的"
+			intervals [1033]:
+				xmin = 191.97
+				xmax = 192.13
+				text = "定"
+			intervals [1034]:
+				xmin = 192.13
+				xmax = 192.37
+				text = "义"
+			intervals [1035]:
+				xmin = 192.37
+				xmax = 192.61
+				text = "啊"
+			intervals [1036]:
+				xmin = 192.61
+				xmax = 193.31
+				text = ""
+			intervals [1037]:
+				xmin = 193.31
+				xmax = 193.51
+				text = "那"
+			intervals [1038]:
+				xmin = 193.51
+				xmax = 193.75
+				text = "位"
+			intervals [1039]:
+				xmin = 193.75
+				xmax = 193.91
+				text = "角"
+			intervals [1040]:
+				xmin = 193.91
+				xmax = 194.11
+				text = "相"
+			intervals [1041]:
+				xmin = 194.11
+				xmax = 194.35
+				text = "等"
+			intervals [1042]:
+				xmin = 194.35
+				xmax = 194.43
+				text = ""
+			intervals [1043]:
+				xmin = 194.43
+				xmax = 194.59
+				text = "两"
+			intervals [1044]:
+				xmin = 194.59
+				xmax = 194.71
+				text = "直"
+			intervals [1045]:
+				xmin = 194.71
+				xmax = 194.85
+				text = "线"
+			intervals [1046]:
+				xmin = 194.85
+				xmax = 195.07
+				text = "平"
+			intervals [1047]:
+				xmin = 195.07
+				xmax = 195.31
+				text = "行"
+			intervals [1048]:
+				xmin = 195.31
+				xmax = 197.61
+				text = ""
+			intervals [1049]:
+				xmin = 197.61
+				xmax = 197.77
+				text = "那"
+			intervals [1050]:
+				xmin = 197.77
+				xmax = 197.95
+				text = "么"
+			intervals [1051]:
+				xmin = 197.95
+				xmax = 198.07
+				text = "当"
+			intervals [1052]:
+				xmin = 198.07
+				xmax = 198.27
+				text = "然"
+			intervals [1053]:
+				xmin = 198.27
+				xmax = 198.37
+				text = "我"
+			intervals [1054]:
+				xmin = 198.37
+				xmax = 198.55
+				text = "们"
+			intervals [1055]:
+				xmin = 198.55
+				xmax = 198.67
+				text = "这"
+			intervals [1056]:
+				xmin = 198.67
+				xmax = 198.75
+				text = "的"
+			intervals [1057]:
+				xmin = 198.75
+				xmax = 198.85
+				text = "的"
+			intervals [1058]:
+				xmin = 198.85
+				xmax = 199.03
+				text = "话"
+			intervals [1059]:
+				xmin = 199.03
+				xmax = 199.15
+				text = "是"
+			intervals [1060]:
+				xmin = 199.15
+				xmax = 199.23
+				text = "们"
+			intervals [1061]:
+				xmin = 199.23
+				xmax = 199.33
+				text = "们"
+			intervals [1062]:
+				xmin = 199.33
+				xmax = 199.41
+				text = "一"
+			intervals [1063]:
+				xmin = 199.41
+				xmax = 199.51
+				text = "以"
+			intervals [1064]:
+				xmin = 199.51
+				xmax = 199.75
+				text = "角"
+			intervals [1065]:
+				xmin = 199.75
+				xmax = 199.81
+				text = ""
+			intervals [1066]:
+				xmin = 199.81
+				xmax = 200.01
+				text = "角"
+			intervals [1067]:
+				xmin = 200.01
+				xmax = 200.23
+				text = "十"
+			intervals [1068]:
+				xmin = 200.23
+				xmax = 200.47
+				text = "度"
+			intervals [1069]:
+				xmin = 200.47
+				xmax = 200.71
+				text = "的"
+			intervals [1070]:
+				xmin = 200.71
+				xmax = 202.45
+				text = ""
+			intervals [1071]:
+				xmin = 202.45
+				xmax = 202.69
+				text = "那"
+			intervals [1072]:
+				xmin = 202.69
+				xmax = 202.81
+				text = "么"
+			intervals [1073]:
+				xmin = 202.81
+				xmax = 202.93
+				text = "的"
+			intervals [1074]:
+				xmin = 202.93
+				xmax = 203.03
+				text = "话"
+			intervals [1075]:
+				xmin = 203.03
+				xmax = 203.13
+				text = "话"
+			intervals [1076]:
+				xmin = 203.13
+				xmax = 203.23
+				text = "属"
+			intervals [1077]:
+				xmin = 203.23
+				xmax = 203.35
+				text = "角"
+			intervals [1078]:
+				xmin = 203.35
+				xmax = 203.59
+				text = "平"
+			intervals [1079]:
+				xmin = 203.59
+				xmax = 203.61
+				text = ""
+			intervals [1080]:
+				xmin = 203.61
+				xmax = 203.83
+				text = "平"
+			intervals [1081]:
+				xmin = 203.83
+				xmax = 204.07
+				text = "线"
+			intervals [1082]:
+				xmin = 204.07
+				xmax = 204.25
+				text = "线"
+			intervals [1083]:
+				xmin = 204.25
+				xmax = 204.39
+				text = "的"
+			intervals [1084]:
+				xmin = 204.39
+				xmax = 204.49
+				text = "定"
+			intervals [1085]:
+				xmin = 204.49
+				xmax = 204.73
+				text = "义"
+			intervals [1086]:
+				xmin = 204.73
+				xmax = 204.97
+				text = "那"
+			intervals [1087]:
+				xmin = 204.97
+				xmax = 205.53
+				text = ""
+			intervals [1088]:
+				xmin = 205.53
+				xmax = 205.77
+				text = "么"
+			intervals [1089]:
+				xmin = 205.77
+				xmax = 205.89
+				text = ""
+			intervals [1090]:
+				xmin = 205.89
+				xmax = 206.05
+				text = "我"
+			intervals [1091]:
+				xmin = 206.05
+				xmax = 206.29
+				text = "们"
+			intervals [1092]:
+				xmin = 206.29
+				xmax = 206.35
+				text = ""
+			intervals [1093]:
+				xmin = 206.35
+				xmax = 206.59
+				text = "平"
+			intervals [1094]:
+				xmin = 206.59
+				xmax = 206.61
+				text = ""
+			intervals [1095]:
+				xmin = 206.61
+				xmax = 206.71
+				text = "平"
+			intervals [1096]:
+				xmin = 206.71
+				xmax = 206.89
+				text = "行"
+			intervals [1097]:
+				xmin = 206.89
+				xmax = 206.97
+				text = "的"
+			intervals [1098]:
+				xmin = 206.97
+				xmax = 207.07
+				text = "一"
+			intervals [1099]:
+				xmin = 207.07
+				xmax = 207.15
+				text = "角"
+			intervals [1100]:
+				xmin = 207.15
+				xmax = 207.39
+				text = "那"
+			intervals [1101]:
+				xmin = 207.39
+				xmax = 207.43
+				text = ""
+			intervals [1102]:
+				xmin = 207.43
+				xmax = 207.55
+				text = "那"
+			intervals [1103]:
+				xmin = 207.55
+				xmax = 207.79
+				text = "么"
+			intervals [1104]:
+				xmin = 207.79
+				xmax = 207.99
+				text = ""
+			intervals [1105]:
+				xmin = 207.99
+				xmax = 208.17
+				text = "所"
+			intervals [1106]:
+				xmin = 208.17
+				xmax = 208.39
+				text = "两"
+			intervals [1107]:
+				xmin = 208.39
+				xmax = 208.63
+				text = "呃"
+			intervals [1108]:
+				xmin = 208.63
+				xmax = 208.79
+				text = ""
+			intervals [1109]:
+				xmin = 208.79
+				xmax = 209.03
+				text = "呃"
+			intervals [1110]:
+				xmin = 209.03
+				xmax = 209.07
+				text = ""
+			intervals [1111]:
+				xmin = 209.07
+				xmax = 209.23
+				text = "形"
+			intervals [1112]:
+				xmin = 209.23
+				xmax = 209.41
+				text = "形"
+			intervals [1113]:
+				xmin = 209.41
+				xmax = 209.53
+				text = "形"
+			intervals [1114]:
+				xmin = 209.53
+				xmax = 209.67
+				text = "成"
+			intervals [1115]:
+				xmin = 209.67
+				xmax = 209.77
+				text = "两"
+			intervals [1116]:
+				xmin = 209.77
+				xmax = 209.91
+				text = "个"
+			intervals [1117]:
+				xmin = 209.91
+				xmax = 210.09
+				text = "角"
+			intervals [1118]:
+				xmin = 210.09
+				xmax = 210.23
+				text = "角"
+			intervals [1119]:
+				xmin = 210.23
+				xmax = 210.33
+				text = "的"
+			intervals [1120]:
+				xmin = 210.33
+				xmax = 210.41
+				text = "话"
+			intervals [1121]:
+				xmin = 210.41
+				xmax = 210.57
+				text = "它"
+			intervals [1122]:
+				xmin = 210.57
+				xmax = 210.65
+				text = "的"
+			intervals [1123]:
+				xmin = 210.65
+				xmax = 210.75
+				text = "大"
+			intervals [1124]:
+				xmin = 210.75
+				xmax = 210.89
+				text = "小"
+			intervals [1125]:
+				xmin = 210.89
+				xmax = 211.01
+				text = "是"
+			intervals [1126]:
+				xmin = 211.01
+				xmax = 211.21
+				text = "相"
+			intervals [1127]:
+				xmin = 211.21
+				xmax = 211.31
+				text = "等"
+			intervals [1128]:
+				xmin = 211.31
+				xmax = 211.49
+				text = "的"
+			intervals [1129]:
+				xmin = 211.49
+				xmax = 211.61
+				text = "哈"
+			intervals [1130]:
+				xmin = 211.61
+				xmax = 211.85
+				text = "那"
+			intervals [1131]:
+				xmin = 211.85
+				xmax = 212.41
+				text = ""
+			intervals [1132]:
+				xmin = 212.41
+				xmax = 212.65
+				text = "平"
+			intervals [1133]:
+				xmin = 212.65
+				xmax = 212.81
+				text = "分"
+			intervals [1134]:
+				xmin = 212.81
+				xmax = 212.93
+				text = "线"
+			intervals [1135]:
+				xmin = 212.93
+				xmax = 213.05
+				text = "的"
+			intervals [1136]:
+				xmin = 213.05
+				xmax = 213.13
+				text = "定"
+			intervals [1137]:
+				xmin = 213.13
+				xmax = 213.23
+				text = "义"
+			intervals [1138]:
+				xmin = 213.23
+				xmax = 213.47
+				text = "那"
+			intervals [1139]:
+				xmin = 213.47
+				xmax = 213.65
+				text = ""
+			intervals [1140]:
+				xmin = 213.65
+				xmax = 213.81
+				text = "那"
+			intervals [1141]:
+				xmin = 213.81
+				xmax = 213.95
+				text = "我"
+			intervals [1142]:
+				xmin = 213.95
+				xmax = 214.05
+				text = "们"
+			intervals [1143]:
+				xmin = 214.05
+				xmax = 214.13
+				text = "这"
+			intervals [1144]:
+				xmin = 214.13
+				xmax = 214.21
+				text = "道"
+			intervals [1145]:
+				xmin = 214.21
+				xmax = 214.31
+				text = "题"
+			intervals [1146]:
+				xmin = 214.31
+				xmax = 214.39
+				text = "目"
+			intervals [1147]:
+				xmin = 214.39
+				xmax = 214.47
+				text = "呢"
+			intervals [1148]:
+				xmin = 214.47
+				xmax = 214.59
+				text = "就"
+			intervals [1149]:
+				xmin = 214.59
+				xmax = 214.73
+				text = "讲"
+			intervals [1150]:
+				xmin = 214.73
+				xmax = 214.83
+				text = "解"
+			intervals [1151]:
+				xmin = 214.83
+				xmax = 214.95
+				text = "到"
+			intervals [1152]:
+				xmin = 214.95
+				xmax = 215.09
+				text = "这"
+			intervals [1153]:
+				xmin = 215.09
+				xmax = 215.25
+				text = "里"
+			intervals [1154]:
+				xmin = 215.25
+				xmax = 215.45
+				text = "终"
+			intervals [1155]:
+				xmin = 215.45
+				xmax = 215.61
+				text = "体"
+			intervals [1156]:
+				xmin = 215.61
+				xmax = 215.73
+				text = "学"
+			intervals [1157]:
+				xmin = 215.73
+				xmax = 215.85
+				text = "习"
+			intervals [1158]:
+				xmin = 215.85
+				xmax = 215.97
+				text = "进"
+			intervals [1159]:
+				xmin = 215.97
+				xmax = 216.09
+				text = "步"
+			intervals [1160]:
+				xmin = 216.09
+				xmax = 216.33
+				text = "对"
+			intervals [1161]:
+				xmin = 216.33
+				xmax = 216.35
+				text = ""
+			intervals [1162]:
+				xmin = 216.35
+				xmax = 216.645
+				text = "见"
+			intervals [1163]:
+				xmin = 216.645
+				xmax = 216.8279375
+				text = ""
